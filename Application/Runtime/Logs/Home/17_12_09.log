@@ -1,0 +1,185 @@
+[ 2017-12-09T10:55:38+08:00 ] 127.0.0.1 /sss/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000153s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015422s ]
+
+[ 2017-12-09T10:57:48+08:00 ] ::1 /sss/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+
+[ 2017-12-09T11:02:06+08:00 ] ::1 /sss/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+
+[ 2017-12-09T11:02:38+08:00 ] ::1 /sss/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+
+[ 2017-12-09T11:02:50+08:00 ] ::1 /sss/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002143s ]
+
+[ 2017-12-09T19:23:19+08:00 ] ::1 /sss/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.017543s ]
+
+[ 2017-12-09T19:27:08+08:00 ] ::1 /sss/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+
+[ 2017-12-09T23:02:36+08:00 ] ::1 /sss/index.php/Home/User/del/id/101.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+
+[ 2017-12-09T23:02:39+08:00 ] ::1 /sss/index.php/User/manage.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+
+[ 2017-12-09T23:02:42+08:00 ] ::1 /sss/index.php/User/manage/page/5.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+
+[ 2017-12-09T23:02:46+08:00 ] ::1 /sss/index.php/Home/User/del/id/100.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+
+[ 2017-12-09T23:02:48+08:00 ] ::1 /sss/index.php/User/manage.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+
+[ 2017-12-09T23:03:41+08:00 ] ::1 /sss/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000718s ]
+
+[ 2017-12-09T23:03:51+08:00 ] ::1 /sss/index.php/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+
+[ 2017-12-09T23:03:52+08:00 ] ::1 /sss/index.php/Index/teacher.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+
+[ 2017-12-09T23:03:52+08:00 ] ::1 /sss/index.php/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+
+[ 2017-12-09T23:03:55+08:00 ] ::1 /sss/index.php/User/manage.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+
+[ 2017-12-09T23:04:00+08:00 ] ::1 /sss/index.php/User/manage.html?classes=20142831&username=&name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+
+[ 2017-12-09T23:04:04+08:00 ] ::1 /sss/index.php/User/manage.html?classes=20142832&username=&name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+
+[ 2017-12-09T23:04:09+08:00 ] ::1 /sss/index.php/User/manage/page/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+
+[ 2017-12-09T23:04:13+08:00 ] ::1 /sss/index.php/User/manage.html?classes=20142832&username=&name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+
+[ 2017-12-09T23:04:26+08:00 ] ::1 /sss/index.php/User/manage/page/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+
+[ 2017-12-09T23:04:30+08:00 ] ::1 /sss/index.php/User/manage.html?classes=20142832&username=&name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+
+[ 2017-12-09T23:04:34+08:00 ] ::1 /sss/index.php/User/manage/page/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+
+[ 2017-12-09T23:05:10+08:00 ] ::1 /sss/index.php/User/manage.html?classes=&username=1&name=&Submit=%E6%9F%A5%E6%89%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+
+[ 2017-12-09T23:05:13+08:00 ] ::1 /sss/index.php/User/manage/page/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000204s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003199s ]
+
+[ 2017-12-09T23:05:19+08:00 ] ::1 /sss/index.php/User/manage/page/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+
+[ 2017-12-09T23:05:23+08:00 ] ::1 /sss/index.php/User/manage/page/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000344s ]
+
+[ 2017-12-09T23:05:25+08:00 ] ::1 /sss/index.php/User/manage/page/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+
+[ 2017-12-09T23:08:10+08:00 ] ::1 /sss/index.php/User/manage.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+
+[ 2017-12-09T23:08:15+08:00 ] ::1 /sss/index.php/User/manage.html?classes=20142831&username=&name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+
+[ 2017-12-09T23:08:20+08:00 ] ::1 /sss/index.php/User/manage/page/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+
+[ 2017-12-09T23:08:27+08:00 ] ::1 /sss/index.php/User/manage/page/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+
+[ 2017-12-09T23:08:31+08:00 ] ::1 /sss/index.php/User/manage/page/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+
+[ 2017-12-09T23:09:09+08:00 ] ::1 /sss/index.php/User/manage.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+
+[ 2017-12-09T23:09:29+08:00 ] ::1 /sss/index.php/Index/logout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+
+[ 2017-12-09T23:09:30+08:00 ] ::1 /sss/index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000144s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001819s ]
+

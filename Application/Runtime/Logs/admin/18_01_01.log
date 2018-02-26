@@ -1,0 +1,46 @@
+[ 2018-01-01T22:35:05+08:00 ] ::1 /sss/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000591s ]
+
+[ 2018-01-01T22:35:12+08:00 ] ::1 /sss/index.php/Admin/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+ERR: 模板不存在:./Application/Admin/View/Index/login.html
+
+[ 2018-01-01T22:35:14+08:00 ] ::1 /sss/index.php/Admin/Index/admin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000253s ]
+
+[ 2018-01-01T22:35:14+08:00 ] ::1 /sss/index.php/Admin/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+
+[ 2018-01-01T22:35:15+08:00 ] ::1 /sss/index.php/Admin/Teacher/teacher_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+
+[ 2018-01-01T22:36:03+08:00 ] ::1 /sss/index.php/Admin/Teacher/teacherupload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000246s ]
+
+[ 2018-01-01T22:36:05+08:00 ] ::1 /sss/index.php/Admin/Teacher/teacher_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+
+[ 2018-01-01T22:38:23+08:00 ] ::1 /sss/index.php/Admin/Index/logout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000623s ]
+
+[ 2018-01-01T22:38:24+08:00 ] ::1 /sss/index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+

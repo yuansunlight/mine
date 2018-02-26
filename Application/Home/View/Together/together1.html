@@ -1,0 +1,227 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head> 
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>申请书审核</title>
+<link rel="stylesheet" href="__CSS__/css.css" type="text/css">
+<link rel="stylesheet" href="__CSS__/bootstrap.css" type="text/css">
+</head>
+<style type="text/css">
+  td{
+    text-align: center;
+    height:30px;
+  }
+  .aa{
+    margin:70px 0;
+  }
+  .select{
+    margin-bottom: 20px;
+  }
+  .btn-info{
+    height:25px;
+    font-size:16px;
+    /*line-height:25px;*/
+  }
+  .table{
+    float:left;
+    width:380px;
+    height:250px;
+  }
+</style>
+
+<body>
+ <h2 style="text-align: center;">{$yy}学年{$_SESSION['login']['classes']}班级奖学金以及个人荣誉汇总表</h2>
+ <form id="form1" action="{:U('Together/together1')}" method="post">
+   <select name="year" onChange="autoSubmit();">
+     <option value="2016">2016</option>
+     <option value="2017">2017</option>
+     <if condition=" $yy eq 2016">
+      <option value="2016" selected>2016</option>
+    </if>
+     <if condition=" $yy eq 2017">
+      <option value="2017" selected>2017</option>
+    </if>
+   </select>
+ </form>
+<div class="aa">
+<div class="table">
+  <table width="90%" border="1" align="center" cellpadding="3" cellspacing="1" bordercolor="#6699CC" style="border-collapse:collapse">  
+  <tr>
+    <td width="90" bgcolor="#EBE2FE">院长奖获得者汇总</td>
+  </tr>
+</table>
+<br>
+<table width="90%" border="1" align="center" cellpadding="3" cellspacing="1" bordercolor="#6699CC" style="border-collapse:collapse">  
+  <foreach name="award1" item="value" key="k">
+    <tr>
+      <td width="90">{$k+1}</td>
+      <td width="90">{$value.classes}</td>
+      <td width="90"><a  href="{:U('Home/Ceping/ceping1', array('username'=>$value['username']))}" title="点击通过"><span >{$value.name}</span></a></td>
+    </tr>
+  </foreach>
+</table>
+
+</div>
+<div class="table">
+  <table width="90%" border="1" align="center" cellpadding="3" cellspacing="1" bordercolor="#6699CC" style="border-collapse:collapse">  
+  <tr>
+    <td width="90" bgcolor="#EBE2FE">公益单项奖获得者汇总</td>
+  </tr>
+</table>
+<br>
+<table width="90%" border="1" align="center" cellpadding="3" cellspacing="1" bordercolor="#6699CC" style="border-collapse:collapse">  
+  <foreach name="award2" item="value" key="k">
+    <tr>
+      <td width="90">{$k+1}</td>
+      <td width="90">{$value.classes}</td>
+      <td width="90"><a  href="{:U('Home/Ceping/ceping1', array('username'=>$value['username']))}" title="点击通过"><span >{$value.name}</span></a></td>
+    </tr>
+  </foreach>
+</table>
+
+</div>
+
+
+<div class="table">
+  <table width="90%" border="1" align="center" cellpadding="3" cellspacing="1" bordercolor="#6699CC" style="border-collapse:collapse">  
+  <tr>
+    <td width="90" bgcolor="#EBE2FE">竞赛单项奖获得者汇总</td>
+  </tr>
+</table>
+<br>
+<table width="90%" border="1" align="center" cellpadding="3" cellspacing="1" bordercolor="#6699CC" style="border-collapse:collapse">  
+  <foreach name="award3" item="value" key="k">
+    <tr>
+      <td width="90">{$k+1}</td>
+      <td width="90">{$value.classes}</td>
+      <td width="90"><a  href="{:U('Home/Ceping/ceping1', array('username'=>$value['username']))}" title="点击通过"><span >{$value.name}</span></a></td>
+    </tr>
+  </foreach>
+</table>
+
+</div>
+<div class="table">
+  <table width="90%" border="1" align="center" cellpadding="3" cellspacing="1" bordercolor="#6699CC" style="border-collapse:collapse">  
+  <tr>
+    <td width="90" bgcolor="#EBE2FE">一等奖学金获得者汇总</td>
+  </tr>
+</table>
+<br>
+<table width="90%" border="1" align="center" cellpadding="3" cellspacing="1" bordercolor="#6699CC" style="border-collapse:collapse">  
+<!--   <if condition="$count1 gt 0" >
+  <p style="text-align: center;">一等奖申报名单({$count1}人)</p>
+</if> -->
+  <foreach name="award4" item="value" key="k">
+    <tr>
+      <td width="90">{$k+1}</td>
+      <td width="90">{$value.classes}</td>
+      <td width="90"><a  href="{:U('Home/Ceping/ceping1', array('username'=>$value['username']))}" title="点击通过"><span >{$value.name}</span></a></td>
+    </tr>
+  </foreach>
+</table>
+
+</div>
+<div class="table">
+  <table width="90%" border="1" align="center" cellpadding="3" cellspacing="1" bordercolor="#6699CC" style="border-collapse:collapse">  
+  <tr>
+    <td width="90" bgcolor="#EBE2FE">二等奖学金获得者汇总</td>
+  </tr>
+</table>
+<br>
+<table width="90%" border="1" align="center" cellpadding="3" cellspacing="1" bordercolor="#6699CC" style="border-collapse:collapse">  
+  <foreach name="award5" item="value" key="k">
+    <tr>
+      <td width="90">{$k+1}</td>
+      <td width="90">{$value.classes}</td>
+      <td width="90"><a  href="{:U('Home/Ceping/ceping1', array('username'=>$value['username']))}" title="点击通过"><span >{$value.name}</span></a></td>
+    </tr>
+  </foreach>
+</table>
+
+</div>
+
+
+<div class="table">
+  <table width="90%" border="1" align="center" cellpadding="3" cellspacing="1" bordercolor="#6699CC" style="border-collapse:collapse">  
+  <tr>
+    <td width="90" bgcolor="#EBE2FE">三等奖学金获得者汇总</td>
+  </tr>
+</table>
+<br>
+<table width="90%" border="1" align="center" cellpadding="3" cellspacing="1" bordercolor="#6699CC" style="border-collapse:collapse">  
+  <foreach name="award6" item="value" key="k">
+    <tr>
+      <td width="90">{$k+1}</td>
+      <td width="90">{$value.classes}</td>
+      <td width="90"><a  href="{:U('Home/Ceping/ceping1', array('username'=>$value['username']))}" title="点击通过"><span >{$value.name}</span></a></td>
+    </tr>
+  </foreach>
+</table>
+
+</div>
+<div class="table">
+  <table width="90%" border="1" align="center" cellpadding="3" cellspacing="1" bordercolor="#6699CC" style="border-collapse:collapse">  
+  <tr>
+    <td width="90" bgcolor="#EBE2FE">优秀学生干部获得者汇总</td>
+  </tr>
+</table>
+<br>
+<table width="90%" border="1" align="center" cellpadding="3" cellspacing="1" bordercolor="#6699CC" style="border-collapse:collapse">  
+  <foreach name="award7" item="value" key="k">
+    <tr>
+      <td width="90">{$k+1}</td>
+      <td width="90">{$value.classes}</td>
+      <td width="90"><a  href="{:U('Home/Ceping/ceping1', array('username'=>$value['username']))}" title="点击通过"><span >{$value.name}</span></a></td>
+    </tr>
+  </foreach>
+</table>
+
+</div>
+<div class="table">
+  <table width="90%" border="1" align="center" cellpadding="3" cellspacing="1" bordercolor="#6699CC" style="border-collapse:collapse">  
+  <tr>
+    <td width="90" bgcolor="#EBE2FE">优秀学生获得者汇总</td>
+  </tr>
+</table>
+<br>
+<table width="90%" border="1" align="center" cellpadding="3" cellspacing="1" bordercolor="#6699CC" style="border-collapse:collapse">  
+  <foreach name="award8" item="value" key="k">
+    <tr>
+      <td width="90">{$k+1}</td>
+      <td width="90">{$value.classes}</td>
+      <td width="90"><a  href="{:U('Home/Ceping/ceping1', array('username'=>$value['username']))}" title="点击通过"><span >{$value.name}</span></a></td>
+    </tr>
+  </foreach>
+</table>
+
+</div>
+<div class="table">
+  <table width="90%" border="1" align="center" cellpadding="3" cellspacing="1" bordercolor="#6699CC" style="border-collapse:collapse">  
+  <tr>
+    <td width="90" bgcolor="#EBE2FE">先进个人获得者汇总</td>
+  </tr>
+</table>
+<br>
+<table width="90%" border="1" align="center" cellpadding="3" cellspacing="1" bordercolor="#6699CC" style="border-collapse:collapse">  
+  <foreach name="award9" item="value" key="k">
+    <tr>
+      <td width="90">{$k+1}</td>
+      <td width="90">{$value.classes}</td>
+      <td width="90"><a  href="{:U('Home/Ceping/ceping1', array('username'=>$value['username']))}" title="点击通过"><span >{$value.name}</span></a></td>
+    </tr>
+  </foreach>
+</table>
+
+</div>
+
+  
+</div>
+</body>
+<script type="text/javascript">
+ function autoSubmit(){
+ var form1=document.getElementById("form1");
+  form1.submit();
+} 
+</script>
+</html>
+

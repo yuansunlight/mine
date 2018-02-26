@@ -1,0 +1,104 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+		<title></title>
+		<script language="javascript" src="__JS__/Calendar.js"></script>
+		<link rel="stylesheet" href="__CSS__/css.css" type="text/css">
+		<style type="text/css">
+			.main{
+				margin:50px 100px;
+			}
+			.btn1{
+				background-color: green;
+				border-radius: 6px;
+				width:60px;
+				height: 25px;
+				color:white;
+				border:0;
+			}
+			.btn{
+				background-color: #6699CC;
+				border-radius: 6px;
+				width:60px;
+				height: 30px;
+				color:white;
+				border:0;
+			}
+			.btn2{
+				background-color: #6699CC;
+				border-radius: 6px;
+				width:74px;
+				height: 25px;
+				color:white;
+				border:0;
+			}
+		</style>
+	</head>	
+	<body>
+		<div class="main">
+			<form id="form1" name="form1" method="post" action="{:U('edit',array('id'=>$edit['id']))}">
+				<tr>
+					<td >
+						<font style="font-size: 30px;  font-family: 华文彩云;" >手动添加</font>
+					</td>
+				</tr>
+	    		<br> <br>
+					<table class="tea_complex">
+						<tr>
+							<td>学年</td>
+							<td>
+								<input type="text" name="year" value="{$edit.year}" />
+							</td>
+						</tr>
+						<tr>
+							<td>班级</td>
+							<td>
+								<input type="text" name="classes" value="{$edit.classes}" />
+							</td>
+						</tr>
+						<tr>
+							<td>学生学号</td>
+							<td><input type="text" id="username" name="username" value="{$edit.username}" /></td>
+						</tr>
+						<tr>
+							<td>学生姓名</td>
+							<td><input type="text" id="name" name="name" value="{$edit.name}" /></td>
+						</tr>
+						<tr>
+							<td>GPA</td>
+							<td><input type="text" id="gpa" name="gpa" value="{$edit.gpa}" /></td>
+						</tr>
+						<tr>
+							<td>体侧成绩</td>
+							<td><input type="text" id="sports" name="sports" value="{$edit.sports}" /></td>
+						</tr>
+						<tr>
+							<td>公益时长</td>
+							<td><input type="text" id="practice" name="practice" value="{$edit.practice}" /></td>
+						</tr>
+						<tr>
+							<td>竞赛获奖</td>
+							<td><input type="text" id="honor" name="honor" value="{$edit.honor}" /></td>
+						</tr>
+						<tr>
+							<td>旷课</td>
+							<td><input type="text" id="outtime" name="outtime" value="{$edit.outtime}" /></td>
+						</tr>
+						<tr>
+							<td>挂科</td>
+							<td><input type="text" id="fail" name="fail" value="{$edit.fail}" /></td>
+						</tr>
+
+							<td><input type="hidden" name="addnew" value="1" />
+	       						 <input class="btn" type="submit" name="Submit" value="添加" onclick="return check();" />
+	       					</td>
+							<td> <input class="btn" type="reset" name="res" value="重置" /></td>
+						</tr>
+					</table>			 
+			</form>
+			<br><br>
+		</div>
+	</body>
+</html>
+

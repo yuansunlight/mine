@@ -1,0 +1,2969 @@
+[ 2017-12-08T00:01:23+08:00 ] ::1 /sss/index.php/Home/Notice/add_notice.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+
+[ 2017-12-08T00:01:23+08:00 ] ::1 /sss/index.php/Home/Notice/Images/Upload.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+
+[ 2017-12-08T00:01:25+08:00 ] ::1 /sss/index.php/Home/Notice/edit_notice.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+
+[ 2017-12-08T00:01:28+08:00 ] ::1 /sss/index.php/Home/Notice/edit/id/12.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+
+[ 2017-12-08T00:01:45+08:00 ] ::1 /sss/index.php/Home/Notice/edit_notice.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+
+[ 2017-12-08T00:01:48+08:00 ] ::1 /sss/index.php/Home/Notice/edit/id/12.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+
+[ 2017-12-08T00:01:48+08:00 ] ::1 /sss/index.php/Home/Notice/edit/id/Images/Upload.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+
+[ 2017-12-08T00:02:35+08:00 ] ::1 /sss/index.php/Home/Notice/edit_notice.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+
+[ 2017-12-08T00:02:38+08:00 ] ::1 /sss/index.php/Home/Notice/edit/id/13.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+
+[ 2017-12-08T00:02:38+08:00 ] ::1 /sss/index.php/Home/Notice/edit/id/Images/Upload.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+
+[ 2017-12-08T00:03:23+08:00 ] ::1 /sss/index.php/Home/Notice/edit_notice.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+
+[ 2017-12-08T00:08:48+08:00 ] ::1 /sss/index.php/Home/Notice/edit_notice.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+
+[ 2017-12-08T00:08:50+08:00 ] ::1 /sss/index.php/Home/Notice/edit/id/12.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000648s ]
+
+[ 2017-12-08T00:08:51+08:00 ] ::1 /sss/index.php/Home/Notice/edit/id/Images/Upload.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+
+[ 2017-12-08T00:08:59+08:00 ] ::1 /sss/index.php/Home/User/manage.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+
+[ 2017-12-08T00:13:36+08:00 ] ::1 /sss/index.php/Home/Notice/edit_notice.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+
+[ 2017-12-08T00:13:41+08:00 ] ::1 /sss/index.php/Home/Notice/edit/id/12.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+
+[ 2017-12-08T00:13:41+08:00 ] ::1 /sss/index.php/Home/Notice/edit/id/Images/Upload.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+
+[ 2017-12-08T00:13:45+08:00 ] ::1 /sss/index.php/Home/Notice/edit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+
+[ 2017-12-08T00:13:45+08:00 ] ::1 /sss/index.php/Home/Notice/Images/Upload.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+
+[ 2017-12-08T00:13:47+08:00 ] ::1 /sss/index.php/Home/Notice/edit_notice.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+
+[ 2017-12-08T00:15:19+08:00 ] ::1 /sss/index.php/Home/Notice/edit/id/12.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002955s ]
+
+[ 2017-12-08T00:15:19+08:00 ] ::1 /sss/index.php/Home/Notice/edit/id/Images/Upload.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001536s ]
+
+[ 2017-12-08T00:15:23+08:00 ] ::1 /sss/index.php/Home/Notice/edit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+
+[ 2017-12-08T00:15:23+08:00 ] ::1 /sss/index.php/Home/Notice/Images/Upload.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+
+[ 2017-12-08T00:15:25+08:00 ] ::1 /sss/index.php/Home/Notice/edit_notice.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+
+[ 2017-12-08T00:15:35+08:00 ] ::1 /sss/index.php/Home/Notice/edit/id/12.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+
+[ 2017-12-08T00:15:35+08:00 ] ::1 /sss/index.php/Home/Notice/edit/id/Images/Upload.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+
+[ 2017-12-08T00:19:06+08:00 ] ::1 /sss/index.php/Home/Notice/edit_notice.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+
+[ 2017-12-08T00:19:09+08:00 ] ::1 /sss/index.php/Home/Notice/edit/id/12.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+
+[ 2017-12-08T00:19:09+08:00 ] ::1 /sss/index.php/Home/Notice/edit/id/Images/Upload.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+
+[ 2017-12-08T00:19:26+08:00 ] ::1 /sss/index.php/Home/Notice/edit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+
+[ 2017-12-08T00:19:28+08:00 ] ::1 /sss/index.php/Home/Notice/edit_notice.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+
+[ 2017-12-08T00:19:33+08:00 ] ::1 /sss/index.php/Home/Notice/edit_notice/page/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+
+[ 2017-12-08T00:19:35+08:00 ] ::1 /sss/index.php/Home/Notice/edit_notice/page/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+
+[ 2017-12-08T00:20:42+08:00 ] ::1 /sss/index.php/Home/Notice/edit_notice.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+
+[ 2017-12-08T00:20:45+08:00 ] ::1 /sss/index.php/Home/Notice/edit/id/12.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+
+[ 2017-12-08T00:20:45+08:00 ] ::1 /sss/index.php/Home/Notice/edit/id/Images/Upload.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+
+[ 2017-12-08T00:20:48+08:00 ] ::1 /sss/index.php/Home/Notice/edit/id/12.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+
+[ 2017-12-08T00:20:51+08:00 ] ::1 /sss/index.php/Home/Notice/edit_notice.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+
+[ 2017-12-08T00:21:33+08:00 ] ::1 /sss/index.php/Home/User/manage.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+
+[ 2017-12-08T00:21:39+08:00 ] ::1 /sss/index.php/Home/Notice/edit_notice.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+
+[ 2017-12-08T00:22:16+08:00 ] ::1 /sss/index.php/Home/Notice/edit_notice.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+
+[ 2017-12-08T00:22:27+08:00 ] ::1 /sss/index.php/Home/Notice/edit_notice.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+
+[ 2017-12-08T00:22:36+08:00 ] ::1 /sss/index.php/Home/Notice/edit_notice.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+
+[ 2017-12-08T00:22:42+08:00 ] ::1 /sss/index.php/Home/User/manage.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+
+[ 2017-12-08T00:22:44+08:00 ] ::1 /sss/index.php/Home/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+
+[ 2017-12-08T00:22:52+08:00 ] ::1 /sss/index.php/Home/User/manage.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+
+[ 2017-12-08T00:24:21+08:00 ] ::1 /sss/index.php/Home/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+
+[ 2017-12-08T00:24:23+08:00 ] ::1 /sss/index.php/Home/Index/teacher.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001506s ]
+
+[ 2017-12-08T00:24:23+08:00 ] ::1 /sss/index.php/Home/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000381s ]
+
+[ 2017-12-08T00:24:25+08:00 ] ::1 /sss/index.php/Home/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+
+[ 2017-12-08T00:24:51+08:00 ] ::1 /sss/index.php/Home/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+
+[ 2017-12-08T00:25:08+08:00 ] ::1 /sss/index.php/Home/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+
+[ 2017-12-08T00:25:28+08:00 ] ::1 /sss/index.php/Home/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+
+[ 2017-12-08T00:25:45+08:00 ] ::1 /sss/index.php/Home/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+
+[ 2017-12-08T00:25:55+08:00 ] ::1 /sss/index.php/Home/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+
+[ 2017-12-08T00:26:17+08:00 ] ::1 /sss/index.php/Home/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000244s ]
+
+[ 2017-12-08T00:26:28+08:00 ] ::1 /sss/index.php/Home/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+
+[ 2017-12-08T00:26:44+08:00 ] ::1 /sss/index.php/Home/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+
+[ 2017-12-08T00:26:54+08:00 ] ::1 /sss/index.php/Home/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+
+[ 2017-12-08T00:27:07+08:00 ] ::1 /sss/index.php/Home/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+
+[ 2017-12-08T00:27:16+08:00 ] ::1 /sss/index.php/Home/User/manage.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+
+[ 2017-12-08T00:27:18+08:00 ] ::1 /sss/index.php/Home/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+
+[ 2017-12-08T00:27:23+08:00 ] ::1 /sss/index.php/Home/Notice/edit_notice.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+
+[ 2017-12-08T00:27:24+08:00 ] ::1 /sss/index.php/Home/Notice/add_notice.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+
+[ 2017-12-08T00:27:24+08:00 ] ::1 /sss/index.php/Home/Notice/Images/Upload.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000819s ]
+
+[ 2017-12-08T00:28:21+08:00 ] ::1 /sss/index.php/Home/Notice/add_notice.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+
+[ 2017-12-08T00:28:21+08:00 ] ::1 /sss/index.php/Home/Notice/Images/Upload.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+
+[ 2017-12-08T00:28:51+08:00 ] ::1 /sss/index.php/Home/Notice/add_notice.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+
+[ 2017-12-08T00:28:51+08:00 ] ::1 /sss/index.php/Home/Notice/Images/Upload.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+
+[ 2017-12-08T00:29:13+08:00 ] ::1 /sss/index.php/Home/Notice/add_notice.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+
+[ 2017-12-08T00:29:13+08:00 ] ::1 /sss/index.php/Home/Notice/Images/Upload.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001087s ]
+
+[ 2017-12-08T09:19:18+08:00 ] ::1 /sss/index.php/Home/Index/teacher.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.014606s ]
+
+[ 2017-12-08T09:19:18+08:00 ] ::1 /sss/index.php/Home/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+
+[ 2017-12-08T09:19:20+08:00 ] ::1 /sss/index.php/Home/Index/teacher.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+
+[ 2017-12-08T09:19:20+08:00 ] ::1 /sss/index.php/Home/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+
+[ 2017-12-08T09:19:23+08:00 ] ::1 /sss/index.php/Home/Index/logout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+
+[ 2017-12-08T09:19:25+08:00 ] ::1 /sss/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+
+[ 2017-12-08T09:19:32+08:00 ] ::1 /sss/index.php/Home/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000238s ]
+
+[ 2017-12-08T09:19:33+08:00 ] ::1 /sss/index.php/Home/Index/teacher.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+
+[ 2017-12-08T09:19:33+08:00 ] ::1 /sss/index.php/Home/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+
+[ 2017-12-08T09:19:36+08:00 ] ::1 /sss/index.php/Home/User/manage.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+
+[ 2017-12-08T09:19:40+08:00 ] ::1 /sss/index.php/Home/User/manage/page/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+
+[ 2017-12-08T09:19:44+08:00 ] ::1 /sss/index.php/Home/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000265s ]
+
+[ 2017-12-08T09:19:49+08:00 ] ::1 /sss/index.php/Home/Notice/add_notice.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+
+[ 2017-12-08T09:19:49+08:00 ] ::1 /sss/index.php/Home/Notice/Images/Upload.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+
+[ 2017-12-08T09:19:53+08:00 ] ::1 /sss/index.php/Home/Notice/edit_notice.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+
+[ 2017-12-08T09:22:20+08:00 ] ::1 /sss/index.php/Home/Index/CepingAdd.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+ERR: 非法操作:CepingAdd.php
+
+[ 2017-12-08T09:28:28+08:00 ] ::1 /sss/index.php/Home/Index/teacher.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+
+[ 2017-12-08T09:28:28+08:00 ] ::1 /sss/index.php/Home/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+
+[ 2017-12-08T09:28:31+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000344s ]
+
+[ 2017-12-08T09:29:44+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.014686s ]
+
+[ 2017-12-08T09:29:58+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+
+[ 2017-12-08T09:30:08+08:00 ] ::1 /sss/index.php/Home/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+
+[ 2017-12-08T09:45:24+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+
+[ 2017-12-08T10:04:03+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+
+[ 2017-12-08T10:04:38+08:00 ] ::1 /sss/index.php/Home/Ceping/excel/grade.xls
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+ERR: 非法操作:excel
+
+[ 2017-12-08T10:04:41+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+
+[ 2017-12-08T10:06:39+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+
+[ 2017-12-08T10:06:53+08:00 ] ::1 /sss/index.php/Home/Notice/add_notice.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+
+[ 2017-12-08T10:06:53+08:00 ] ::1 /sss/index.php/Home/Notice/Images/Upload.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000274s ]
+
+[ 2017-12-08T10:07:38+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+
+[ 2017-12-08T10:08:09+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+
+[ 2017-12-08T10:08:32+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000239s ]
+
+[ 2017-12-08T10:09:14+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+
+[ 2017-12-08T10:09:28+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+
+[ 2017-12-08T10:09:54+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000244s ]
+
+[ 2017-12-08T10:10:26+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+
+[ 2017-12-08T10:10:29+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+
+[ 2017-12-08T10:10:43+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+
+[ 2017-12-08T10:28:28+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+
+[ 2017-12-08T10:28:57+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+ERR: 非法操作:list_ceping
+
+[ 2017-12-08T10:28:58+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+
+[ 2017-12-08T10:35:59+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+
+[ 2017-12-08T10:36:14+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+
+[ 2017-12-08T10:36:15+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+
+[ 2017-12-08T10:37:51+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+
+[ 2017-12-08T10:37:52+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+
+[ 2017-12-08T10:39:29+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+
+[ 2017-12-08T10:39:43+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+
+[ 2017-12-08T10:39:48+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+
+[ 2017-12-08T10:40:24+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000517s ]
+
+[ 2017-12-08T10:43:42+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+
+[ 2017-12-08T10:47:01+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+
+[ 2017-12-08T10:47:35+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+
+[ 2017-12-08T10:48:00+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+
+[ 2017-12-08T10:48:39+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+ERR: Think\Model:desc方法不存在！
+
+[ 2017-12-08T10:49:40+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001524s ]
+
+[ 2017-12-08T10:49:43+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+
+[ 2017-12-08T10:49:55+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+
+[ 2017-12-08T12:54:00+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+
+[ 2017-12-08T12:54:02+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+
+[ 2017-12-08T12:54:21+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+
+[ 2017-12-08T12:54:23+08:00 ] ::1 /sss/index.php/Home/Index/teacher.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+
+[ 2017-12-08T12:54:23+08:00 ] ::1 /sss/index.php/Home/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+
+[ 2017-12-08T12:54:25+08:00 ] ::1 /sss/index.php/Home/Notice/add_notice.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+
+[ 2017-12-08T12:54:25+08:00 ] ::1 /sss/index.php/Home/Notice/Images/Upload.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000613s ]
+
+[ 2017-12-08T12:54:27+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000247s ]
+
+[ 2017-12-08T12:55:02+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+
+[ 2017-12-08T12:55:28+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+
+[ 2017-12-08T12:55:37+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+
+[ 2017-12-08T12:55:49+08:00 ] ::1 /sss/index.php/Home/User/manage.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000274s ]
+
+[ 2017-12-08T12:55:51+08:00 ] ::1 /sss/index.php/Home/Notice/add_notice.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+
+[ 2017-12-08T12:55:51+08:00 ] ::1 /sss/index.php/Home/Notice/Images/Upload.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+
+[ 2017-12-08T12:55:54+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+
+[ 2017-12-08T12:56:30+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000244s ]
+
+[ 2017-12-08T12:56:32+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000254s ]
+
+[ 2017-12-08T12:56:50+08:00 ] ::1 /sss/index.php/Home/Notice/add_notice.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+
+[ 2017-12-08T12:56:50+08:00 ] ::1 /sss/index.php/Home/Notice/Images/Upload.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+
+[ 2017-12-08T12:56:52+08:00 ] ::1 /sss/index.php/Home/Notice/edit_notice.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+
+[ 2017-12-08T12:56:55+08:00 ] ::1 /sss/index.php/Home/User/manage.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+
+[ 2017-12-08T12:56:58+08:00 ] ::1 /sss/index.php/Home/User/manage.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000243s ]
+
+[ 2017-12-08T12:57:50+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+
+[ 2017-12-08T12:57:52+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+
+[ 2017-12-08T12:58:43+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000241s ]
+
+[ 2017-12-08T12:58:45+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000248s ]
+
+[ 2017-12-08T13:01:41+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000243s ]
+
+[ 2017-12-08T13:01:45+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping/page/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000255s ]
+
+[ 2017-12-08T13:01:48+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping/page/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000245s ]
+
+[ 2017-12-08T13:02:42+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+
+[ 2017-12-08T13:02:50+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping/page/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000243s ]
+
+[ 2017-12-08T13:02:53+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping/page/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+
+[ 2017-12-08T13:02:56+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping/page/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+
+[ 2017-12-08T13:03:14+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+
+[ 2017-12-08T13:03:18+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping/page/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+
+[ 2017-12-08T13:03:20+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping/page/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000252s ]
+
+[ 2017-12-08T14:48:13+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping/page/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+
+[ 2017-12-08T14:48:31+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+
+[ 2017-12-08T14:48:34+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping/page/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+
+[ 2017-12-08T14:51:58+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000274s ]
+
+[ 2017-12-08T14:52:51+08:00 ] ::1 /sss/index.php/Home/Index/teacher.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+
+[ 2017-12-08T14:52:51+08:00 ] ::1 /sss/index.php/Home/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+
+[ 2017-12-08T14:52:54+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+
+[ 2017-12-08T14:52:57+08:00 ] ::1 /sss/index.php/Home/Ceping/edit/id/8.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003386s ]
+
+[ 2017-12-08T14:57:41+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+
+[ 2017-12-08T14:57:42+08:00 ] ::1 /sss/index.php/Home/Ceping/edit/id/8.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000249s ]
+
+[ 2017-12-08T14:58:53+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+
+[ 2017-12-08T14:58:55+08:00 ] ::1 /sss/index.php/Home/Ceping/edit/id/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+
+[ 2017-12-08T15:08:10+08:00 ] ::1 /sss/index.php/Home/Index/teacher.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+
+[ 2017-12-08T15:08:10+08:00 ] ::1 /sss/index.php/Home/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+
+[ 2017-12-08T15:08:13+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+
+[ 2017-12-08T15:08:15+08:00 ] ::1 /sss/index.php/Home/Ceping/edit/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+
+[ 2017-12-08T15:08:17+08:00 ] ::1 /sss/index.php/Home/Notice/add_notice.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+
+[ 2017-12-08T15:08:18+08:00 ] ::1 /sss/index.php/Home/Notice/Images/Upload.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+
+[ 2017-12-08T15:08:20+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+
+[ 2017-12-08T15:10:07+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001504s ]
+
+[ 2017-12-08T15:10:10+08:00 ] ::1 /sss/index.php/Home/Ceping/edit/id/5.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+
+[ 2017-12-08T15:12:18+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000238s ]
+
+[ 2017-12-08T15:12:21+08:00 ] ::1 /sss/index.php/Home/Ceping/edit/id/8.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000262s ]
+
+[ 2017-12-08T15:12:28+08:00 ] ::1 /sss/index.php/Home/Ceping/edit/id/8.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000236s ]
+
+[ 2017-12-08T15:12:34+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+
+[ 2017-12-08T15:42:58+08:00 ] ::1 /sss/index.php/Home/Ceping/edit/id/8.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+
+[ 2017-12-08T15:43:05+08:00 ] ::1 /sss/index.php/Home/Ceping/edit/id/8.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+
+[ 2017-12-08T15:43:09+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001755s ]
+
+[ 2017-12-08T15:44:43+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+
+[ 2017-12-08T15:44:49+08:00 ] ::1 /sss/index.php/Home/Ceping/del/id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+ERR: 模板不存在:./Application/Home/View/Ceping/del.html
+
+[ 2017-12-08T15:44:51+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+
+[ 2017-12-08T15:45:33+08:00 ] ::1 /sss/index.php/Home/Index/MessageCheck.php?lb=%E9%87%8D%E8%A6%81%E9%80%9A%E7%9F%A5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+ERR: 非法操作:MessageCheck.php
+
+[ 2017-12-08T15:45:37+08:00 ] ::1 /sss/index.php/Home/User/manage.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+
+[ 2017-12-08T15:45:39+08:00 ] ::1 /sss/index.php/Home/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000237s ]
+
+[ 2017-12-08T15:45:40+08:00 ] ::1 /sss/index.php/Home/Notice/add_notice.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+
+[ 2017-12-08T15:45:40+08:00 ] ::1 /sss/index.php/Home/Notice/Images/Upload.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000258s ]
+
+[ 2017-12-08T15:45:42+08:00 ] ::1 /sss/index.php/Home/Notice/edit_notice.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+
+[ 2017-12-08T15:45:44+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+
+[ 2017-12-08T15:50:22+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000248s ]
+
+[ 2017-12-08T15:50:29+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+
+[ 2017-12-08T15:50:32+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+
+[ 2017-12-08T15:50:57+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+
+[ 2017-12-08T15:51:00+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000274s ]
+
+[ 2017-12-08T15:51:06+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+
+[ 2017-12-08T15:51:06+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+
+[ 2017-12-08T15:51:09+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+
+[ 2017-12-08T15:51:12+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+
+[ 2017-12-08T15:51:56+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+
+[ 2017-12-08T15:51:58+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+ERR: 1062:Duplicate entry '' for key 's2'
+ [ SQL语句 ] : INSERT INTO `ceping` (`year`,`classes`,`username`,`name`,`gpa`,`sports`,`practice`,`honor`,`outtime`,`fail`,`rank`) VALUES ('2016','20142831','','','','','','','0','0','')
+
+[ 2017-12-08T15:52:05+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+
+[ 2017-12-08T15:52:08+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+ERR: 1062:Duplicate entry '' for key 's2'
+ [ SQL语句 ] : INSERT INTO `ceping` (`year`,`classes`,`username`,`name`,`gpa`,`sports`,`practice`,`honor`,`outtime`,`fail`,`rank`) VALUES ('2016','20142831','','','','','','','0','0','')
+
+[ 2017-12-08T15:52:10+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002093s ]
+
+[ 2017-12-08T15:52:12+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+
+[ 2017-12-08T15:52:15+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000239s ]
+
+[ 2017-12-08T15:52:16+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+
+[ 2017-12-08T15:52:17+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+
+[ 2017-12-08T15:52:18+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+
+[ 2017-12-08T15:52:19+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+
+[ 2017-12-08T15:53:00+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+
+[ 2017-12-08T15:53:02+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+ERR: 1062:Duplicate entry '' for key 's2'
+ [ SQL语句 ] : INSERT INTO `ceping` (`year`,`classes`,`username`,`name`,`gpa`,`sports`,`practice`,`honor`,`outtime`,`fail`,`rank`) VALUES ('2016','20142831','','','','','','','0','0','')
+
+[ 2017-12-08T15:53:04+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000236s ]
+
+[ 2017-12-08T15:53:07+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+
+[ 2017-12-08T15:53:10+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000602s ]
+
+[ 2017-12-08T15:53:12+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+
+[ 2017-12-08T15:53:41+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000239s ]
+
+[ 2017-12-08T15:53:43+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+ERR: 1062:Duplicate entry '' for key 's2'
+ [ SQL语句 ] : INSERT INTO `ceping` (`year`,`classes`,`username`,`name`,`gpa`,`sports`,`practice`,`honor`,`outtime`,`fail`,`rank`) VALUES ('2016','20142831','','','','','','','0','0','')
+
+[ 2017-12-08T15:54:03+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000247s ]
+
+[ 2017-12-08T15:55:54+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002168s ]
+
+[ 2017-12-08T15:55:58+08:00 ] ::1 /sss/index.php/Home/Ceping/del/id/10.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000254s ]
+ERR: 模板不存在:./Application/Home/View/Ceping/del.html
+
+[ 2017-12-08T15:56:00+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000797s ]
+
+[ 2017-12-08T15:56:03+08:00 ] ::1 /sss/index.php/Home/Ceping/edit/id/8.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+
+[ 2017-12-08T15:56:11+08:00 ] ::1 /sss/index.php/Home/Ceping/edit/id/8.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+
+[ 2017-12-08T15:56:13+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+
+[ 2017-12-08T15:56:20+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000253s ]
+
+[ 2017-12-08T15:56:22+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000381s ]
+
+[ 2017-12-08T15:58:26+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000247s ]
+
+[ 2017-12-08T15:58:28+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+
+[ 2017-12-08T16:00:21+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+
+[ 2017-12-08T16:00:38+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000236s ]
+
+[ 2017-12-08T16:00:40+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+
+[ 2017-12-08T16:01:38+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+
+[ 2017-12-08T16:01:46+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000252s ]
+
+[ 2017-12-08T16:01:48+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+
+[ 2017-12-08T16:02:05+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+
+[ 2017-12-08T16:02:11+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+
+[ 2017-12-08T16:02:13+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+
+[ 2017-12-08T16:02:58+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+
+[ 2017-12-08T16:03:06+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+
+[ 2017-12-08T16:03:08+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+
+[ 2017-12-08T16:04:16+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000247s ]
+
+[ 2017-12-08T16:04:21+08:00 ] ::1 /sss/index.php/Home/Ceping/cepingupload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+
+[ 2017-12-08T16:04:41+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+
+[ 2017-12-08T16:04:49+08:00 ] ::1 /sss/index.php/Home/Ceping/cepingupload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+ERR: 1062:Duplicate entry '20142831' for key 's2'
+ [ SQL语句 ] : INSERT INTO `ceping` (`year`,`username`,`gpa`,`sports`,`honor`,`classes`,`outtime`,`fail`,`rank`) VALUES ('2016','20142831','张三','3.91','89','52','0','0','1')
+
+[ 2017-12-08T16:08:46+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+
+[ 2017-12-08T16:08:54+08:00 ] ::1 /sss/index.php/Home/Ceping/cepingupload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000249s ]
+
+[ 2017-12-08T16:08:56+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000245s ]
+
+[ 2017-12-08T16:09:10+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping/page/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+
+[ 2017-12-08T16:09:13+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping/page/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+
+[ 2017-12-08T16:10:34+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000249s ]
+
+[ 2017-12-08T16:10:42+08:00 ] ::1 /sss/index.php/Home/Ceping/cepingupload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000260s ]
+
+[ 2017-12-08T16:10:44+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+
+[ 2017-12-08T16:10:51+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping/page/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000245s ]
+
+[ 2017-12-08T16:10:53+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping/page/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+
+[ 2017-12-08T16:13:06+08:00 ] ::1 /sss/index.php/Home/Ceping/del/id/19.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+ERR: 模板不存在:./Application/Home/View/Ceping/del.html
+
+[ 2017-12-08T16:13:08+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+
+[ 2017-12-08T16:13:11+08:00 ] ::1 /sss/index.php/Home/Ceping/del/id/20.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+ERR: 模板不存在:./Application/Home/View/Ceping/del.html
+
+[ 2017-12-08T16:13:14+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+
+[ 2017-12-08T16:13:17+08:00 ] ::1 /sss/index.php/Home/Ceping/del/id/21.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+ERR: 模板不存在:./Application/Home/View/Ceping/del.html
+
+[ 2017-12-08T16:13:20+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+
+[ 2017-12-08T16:15:02+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000265s ]
+
+[ 2017-12-08T16:15:10+08:00 ] ::1 /sss/index.php/Home/Ceping/cepingupload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+ERR: 1062:Duplicate entry '9' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `ceping` (`id`,`year`,`classes`,`username`,`name`,`gpa`,`sports`,`practice`,`outtime`,`fail`,`honor`,`rank`) VALUES ('9','2016','20142831','9','张三','3.92','78','22','0','0','0','9')
+
+[ 2017-12-08T16:16:27+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+
+[ 2017-12-08T16:16:34+08:00 ] ::1 /sss/index.php/Home/Ceping/cepingupload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000259s ]
+ERR: 1062:Duplicate entry '9' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `ceping` (`id`,`year`,`classes`,`username`,`name`,`gpa`,`sports`,`practice`,`outtime`,`fail`,`honor`,`rank`) VALUES ('9','2016','20142831','9','张三','3.92','78','22','0','0','0','9')
+
+[ 2017-12-08T16:19:04+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+
+[ 2017-12-08T16:19:11+08:00 ] ::1 /sss/index.php/Home/Ceping/cepingupload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000241s ]
+ERR: 1062:Duplicate entry '9' for key 's2'
+ [ SQL语句 ] : INSERT INTO `ceping` (`year`,`classes`,`username`,`name`,`gpa`,`sports`,`practice`,`outtime`,`fail`,`honor`,`rank`) VALUES ('2016','20142831','9','张三','3.92','78','22','0','0','0','9')
+
+[ 2017-12-08T16:20:43+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+
+[ 2017-12-08T16:20:51+08:00 ] ::1 /sss/index.php/Home/Ceping/cepingupload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+ERR: 1062:Duplicate entry '9' for key 's2'
+ [ SQL语句 ] : INSERT INTO `ceping` (`year`,`classes`,`username`,`name`,`gpa`,`sports`,`practice`,`outtime`,`fail`,`honor`,`rank`) VALUES ('2016','20142831','9','张三','3.92','78','22','0','0','0','9')
+
+[ 2017-12-08T16:22:23+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000250s ]
+
+[ 2017-12-08T16:22:30+08:00 ] ::1 /sss/index.php/Home/Ceping/cepingupload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+
+[ 2017-12-08T16:22:31+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+
+[ 2017-12-08T16:22:33+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000252s ]
+
+[ 2017-12-08T16:22:38+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000246s ]
+
+[ 2017-12-08T16:22:39+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000246s ]
+
+[ 2017-12-08T16:22:47+08:00 ] ::1 /sss/index.php/Home/Ceping/del/id/16.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+ERR: 模板不存在:./Application/Home/View/Ceping/del.html
+
+[ 2017-12-08T16:22:49+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+
+[ 2017-12-08T16:22:52+08:00 ] ::1 /sss/index.php/Home/Notice/edit_notice.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+
+[ 2017-12-08T16:22:54+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+
+[ 2017-12-08T16:22:56+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000246s ]
+
+[ 2017-12-08T16:22:58+08:00 ] ::1 /sss/index.php/Home/Ceping/del/id/14.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+ERR: 模板不存在:./Application/Home/View/Ceping/del.html
+
+[ 2017-12-08T16:23:00+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000245s ]
+
+[ 2017-12-08T16:24:00+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000245s ]
+
+[ 2017-12-08T16:24:10+08:00 ] ::1 /sss/index.php/Home/Ceping/cepingupload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+
+[ 2017-12-08T16:24:11+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+
+[ 2017-12-08T16:24:15+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000246s ]
+
+[ 2017-12-08T16:25:58+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000251s ]
+
+[ 2017-12-08T16:25:59+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000238s ]
+
+[ 2017-12-08T16:26:18+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+
+[ 2017-12-08T16:26:29+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping/page/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000246s ]
+
+[ 2017-12-08T16:26:32+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping/page/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003066s ]
+
+[ 2017-12-08T16:27:15+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004049s ]
+
+[ 2017-12-08T16:28:22+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+
+[ 2017-12-08T16:28:31+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000251s ]
+
+[ 2017-12-08T16:30:21+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+
+[ 2017-12-08T16:30:31+08:00 ] ::1 /sss/index.php/Home/Ceping/cepingupload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000255s ]
+
+[ 2017-12-08T16:30:33+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+
+[ 2017-12-08T16:30:36+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping/page/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+
+[ 2017-12-08T16:30:40+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping/page/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000238s ]
+
+[ 2017-12-08T16:30:57+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+
+[ 2017-12-08T16:30:58+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000239s ]
+
+[ 2017-12-08T16:31:11+08:00 ] ::1 /sss/index.php/Home/User/manage.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+
+[ 2017-12-08T16:31:13+08:00 ] ::1 /sss/index.php/Home/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+
+[ 2017-12-08T19:56:43+08:00 ] ::1 /sss/index.php/Home/Index/teacher.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+
+[ 2017-12-08T19:56:45+08:00 ] ::1 /sss/index.php/Home/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+
+[ 2017-12-08T20:48:36+08:00 ] ::1 /sss/index.php/Home/User/manage.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+
+[ 2017-12-08T20:48:38+08:00 ] ::1 /sss/index.php/Home/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+
+[ 2017-12-08T20:48:48+08:00 ] ::1 /sss/index.php/Home/Notice/edit_notice.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000719s ]
+
+[ 2017-12-08T20:48:54+08:00 ] ::1 /sss/index.php/Home/Notice/add_notice.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+
+[ 2017-12-08T20:48:55+08:00 ] ::1 /sss/index.php/Home/Notice/Images/Upload.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001185s ]
+
+[ 2017-12-08T20:48:56+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002078s ]
+
+[ 2017-12-08T20:48:59+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+
+[ 2017-12-08T20:49:06+08:00 ] ::1 /sss/index.php/Home/Index/MessageCheck.php?lb=%E9%87%8D%E8%A6%81%E9%80%9A%E7%9F%A5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+ERR: 非法操作:MessageCheck.php
+
+[ 2017-12-08T20:49:08+08:00 ] ::1 /sss/index.php/Home/Index/MessageChecked.php?lb=%E9%87%8D%E8%A6%81%E9%80%9A%E7%9F%A5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+ERR: 非法操作:MessageChecked.php
+
+[ 2017-12-08T20:49:09+08:00 ] ::1 /sss/index.php/Home/Index/MessageCheck.php?lb=%E9%87%8D%E8%A6%81%E9%80%9A%E7%9F%A5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+ERR: 非法操作:MessageCheck.php
+
+[ 2017-12-08T20:52:27+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+
+[ 2017-12-08T20:52:29+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+
+[ 2017-12-08T20:52:33+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+
+[ 2017-12-08T20:52:37+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+
+[ 2017-12-08T20:52:40+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+
+[ 2017-12-08T20:52:56+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000253s ]
+
+[ 2017-12-08T20:54:56+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+
+[ 2017-12-08T20:54:58+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html?year=2016&classes=&mc=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+
+[ 2017-12-08T20:55:01+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html?year=2017&classes=&mc=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+
+[ 2017-12-08T20:55:04+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html?year=&classes=20142831&mc=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+
+[ 2017-12-08T20:55:07+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html?year=2016&classes=&mc=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+
+[ 2017-12-08T20:55:10+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html?year=2016&classes=&mc=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+
+[ 2017-12-08T20:55:13+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html?year=&classes=20142832&mc=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+
+[ 2017-12-08T20:55:17+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html?year=2017&classes=&mc=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+
+[ 2017-12-08T20:55:20+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html?year=&classes=20142831&mc=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+
+[ 2017-12-08T20:55:26+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html?year=&classes=&mc=z&Submit=%E6%9F%A5%E6%89%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000235s ]
+
+[ 2017-12-08T20:55:30+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html?year=&classes=&mc=z&Submit=%E6%9F%A5%E6%89%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000252s ]
+
+[ 2017-12-08T20:59:05+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+
+[ 2017-12-08T20:59:08+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html?year=2016&classes=&name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+
+[ 2017-12-08T20:59:13+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html?year=2017&classes=&name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+
+[ 2017-12-08T20:59:15+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html?year=&classes=20142831&name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+
+[ 2017-12-08T20:59:25+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html?year=&classes=20142831&name=a&Submit=%E6%9F%A5%E6%89%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000250s ]
+
+[ 2017-12-08T21:01:07+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+
+[ 2017-12-08T21:01:10+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html?year=2016&classes=&name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+
+[ 2017-12-08T21:01:13+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html?year=2014&classes=20142832&name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000237s ]
+
+[ 2017-12-08T21:01:16+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html?year=2016&classes=20142832&name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+
+[ 2017-12-08T21:01:18+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html?year=2014&classes=20142831&name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+
+[ 2017-12-08T21:01:24+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html?year=2017&classes=20142831&name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+
+[ 2017-12-08T21:01:29+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html?year=2017&classes=20142831&name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+
+[ 2017-12-08T21:01:32+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html?year=2017&classes=20142831&name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+
+[ 2017-12-08T21:01:35+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html?year=2017&classes=20142832&name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+
+[ 2017-12-08T21:01:38+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html?year=2016&classes=20142832&name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+
+[ 2017-12-08T21:01:41+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html?year=2014&classes=20142832&name=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+
+[ 2017-12-08T21:01:47+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002624s ]
+
+[ 2017-12-08T21:09:33+08:00 ] ::1 /sss/index.php/Home/Index/teacher.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.019570s ]
+
+[ 2017-12-08T21:09:33+08:00 ] ::1 /sss/index.php/Home/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000692s ]
+
+[ 2017-12-08T21:09:35+08:00 ] ::1 /sss/index.php/Home/Index/MessageCheck.php?lb=%E9%87%8D%E8%A6%81%E9%80%9A%E7%9F%A5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+ERR: 非法操作:MessageCheck.php
+
+[ 2017-12-08T21:09:36+08:00 ] ::1 /sss/index.php/Home/Index/MessageCheck.php?lb=%E9%87%8D%E8%A6%81%E9%80%9A%E7%9F%A5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+ERR: 非法操作:MessageCheck.php
+
+[ 2017-12-08T21:09:37+08:00 ] ::1 /sss/index.php/Home/Index/MessageCheck.php?lb=%E9%87%8D%E8%A6%81%E9%80%9A%E7%9F%A5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000244s ]
+ERR: 非法操作:MessageCheck.php
+
+[ 2017-12-08T21:10:37+08:00 ] ::1 /sss/index.php/Home/Index/MessageCheck.php?lb=%E9%87%8D%E8%A6%81%E9%80%9A%E7%9F%A5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000274s ]
+ERR: 非法操作:MessageCheck.php
+
+[ 2017-12-08T21:10:38+08:00 ] ::1 /sss/index.php/Home/Index/MessageCheck.php?lb=%E9%87%8D%E8%A6%81%E9%80%9A%E7%9F%A5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000245s ]
+ERR: 非法操作:MessageCheck.php
+
+[ 2017-12-08T21:10:40+08:00 ] ::1 /sss/index.php/Home/Index/teacher.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001616s ]
+
+[ 2017-12-08T21:10:40+08:00 ] ::1 /sss/index.php/Home/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+
+[ 2017-12-08T21:10:41+08:00 ] ::1 /sss/index.php/Home/Index/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+ERR: 非法操作:message_check
+
+[ 2017-12-08T21:10:42+08:00 ] ::1 /sss/index.php/Home/Index/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+ERR: 非法操作:message_check
+
+[ 2017-12-08T21:10:46+08:00 ] ::1 /sss/index.php/Home/Index/teacher.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+
+[ 2017-12-08T21:10:46+08:00 ] ::1 /sss/index.php/Home/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000262s ]
+
+[ 2017-12-08T21:10:47+08:00 ] ::1 /sss/index.php/Home/Index/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+ERR: 非法操作:message_check
+
+[ 2017-12-08T21:11:26+08:00 ] ::1 /sss/index.php/Home/Index/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000255s ]
+ERR: 非法操作:message_check
+
+[ 2017-12-08T21:11:27+08:00 ] ::1 /sss/index.php/Home/Index/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000195s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001994s ]
+ERR: 非法操作:message_check
+
+[ 2017-12-08T21:11:28+08:00 ] ::1 /sss/index.php/Home/Index/teacher.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+
+[ 2017-12-08T21:11:28+08:00 ] ::1 /sss/index.php/Home/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000570s ]
+
+[ 2017-12-08T21:11:31+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000939s ]
+
+[ 2017-12-08T21:18:25+08:00 ] ::1 /sss/index.php/Home/Index/teacher.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.020874s ]
+
+[ 2017-12-08T21:18:26+08:00 ] ::1 /sss/index.php/Home/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+
+[ 2017-12-08T21:18:28+08:00 ] ::1 /sss/index.php/Home/Message/message_checked.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000245s ]
+
+[ 2017-12-08T21:19:25+08:00 ] ::1 /sss/index.php/Home/Index/teacher.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+
+[ 2017-12-08T21:19:25+08:00 ] ::1 /sss/index.php/Home/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000260s ]
+
+[ 2017-12-08T21:19:27+08:00 ] ::1 /sss/index.php/Home/Message/message_checked.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+
+[ 2017-12-08T21:24:16+08:00 ] ::1 /sss/index.php/Home/Index/teacher.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+
+[ 2017-12-08T21:24:16+08:00 ] ::1 /sss/index.php/Home/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+
+[ 2017-12-08T21:24:19+08:00 ] ::1 /sss/index.php/Home/Message/message_checked.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+
+[ 2017-12-08T21:24:22+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+
+[ 2017-12-08T21:25:04+08:00 ] ::1 /sss/index.php/Home/Message/message_checked.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+
+[ 2017-12-08T21:25:07+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000774s ]
+
+[ 2017-12-08T21:28:35+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000243s ]
+
+[ 2017-12-08T21:28:38+08:00 ] ::1 /sss/index.php/Home/Message/message_checked.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+
+[ 2017-12-08T21:28:40+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+
+[ 2017-12-08T21:29:03+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000246s ]
+
+[ 2017-12-08T21:29:14+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+
+[ 2017-12-08T21:29:37+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+
+[ 2017-12-08T21:31:27+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000248s ]
+
+[ 2017-12-08T21:31:43+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000248s ]
+
+[ 2017-12-08T21:31:58+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000246s ]
+
+[ 2017-12-08T21:35:46+08:00 ] ::1 /sss/index.php/Home/Message/message_checked.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+
+[ 2017-12-08T21:35:59+08:00 ] ::1 /sss/index.php/Home/Message/message_checked.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+
+[ 2017-12-08T21:36:05+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+
+[ 2017-12-08T21:41:20+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+
+[ 2017-12-08T21:41:26+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html?username=1&name=&Submit=%E6%9F%A5%E6%89%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000245s ]
+
+[ 2017-12-08T21:41:30+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html?username=&name=1&Submit=%E6%9F%A5%E6%89%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001289s ]
+
+[ 2017-12-08T21:41:33+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html?username=&name=2&Submit=%E6%9F%A5%E6%89%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000245s ]
+
+[ 2017-12-08T21:43:12+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+
+[ 2017-12-08T21:43:13+08:00 ] ::1 /sss/index.php/Home/Index/teacher.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+
+[ 2017-12-08T21:43:14+08:00 ] ::1 /sss/index.php/Home/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000588s ]
+
+[ 2017-12-08T21:43:16+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000258s ]
+
+[ 2017-12-08T21:43:30+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html?username=2&name=&Submit=%E6%9F%A5%E6%89%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+
+[ 2017-12-08T21:43:35+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html?username=&name=2&Submit=%E6%9F%A5%E6%89%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000244s ]
+
+[ 2017-12-08T21:44:38+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+
+[ 2017-12-08T21:44:40+08:00 ] ::1 /sss/index.php/Home/Message/message_checked.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000188s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001560s ]
+
+[ 2017-12-08T21:44:47+08:00 ] ::1 /sss/index.php/Home/Message/message_checked.html?username=%E6%88%91%E9%97%AE%E9%97%AE&name=&Submit=%E6%9F%A5%E6%89%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001545s ]
+
+[ 2017-12-08T21:46:01+08:00 ] ::1 /sss/index.php/Home/Index/teacher.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+
+[ 2017-12-08T21:46:01+08:00 ] ::1 /sss/index.php/Home/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+
+[ 2017-12-08T21:46:03+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+
+[ 2017-12-08T21:46:07+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html?username=2&name=&Submit=%E6%9F%A5%E6%89%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+
+[ 2017-12-08T21:46:10+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html?username=1&name=&Submit=%E6%9F%A5%E6%89%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000239s ]
+
+[ 2017-12-08T21:48:15+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+
+[ 2017-12-08T21:48:18+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html?username=2&name=&Submit=%E6%9F%A5%E6%89%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+
+[ 2017-12-08T21:49:08+08:00 ] ::1 /sss/index.php/Home/Index/teacher.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000258s ]
+
+[ 2017-12-08T21:49:08+08:00 ] ::1 /sss/index.php/Home/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+
+[ 2017-12-08T21:49:09+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000252s ]
+
+[ 2017-12-08T21:49:11+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+
+[ 2017-12-08T21:49:12+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000258s ]
+
+[ 2017-12-08T21:49:13+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000260s ]
+
+[ 2017-12-08T21:49:13+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000237s ]
+
+[ 2017-12-08T21:49:21+08:00 ] ::1 /sss/index.php/Home/Message/message_checked.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+
+[ 2017-12-08T21:49:23+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+
+[ 2017-12-08T21:49:24+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+
+[ 2017-12-08T21:49:24+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000775s ]
+
+[ 2017-12-08T21:49:24+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000240s ]
+
+[ 2017-12-08T21:49:26+08:00 ] ::1 /sss/index.php/Home/Index/teacher.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000623s ]
+
+[ 2017-12-08T21:49:26+08:00 ] ::1 /sss/index.php/Home/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+
+[ 2017-12-08T21:49:27+08:00 ] ::1 /sss/index.php/Home/Index/teacher.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+
+[ 2017-12-08T21:49:27+08:00 ] ::1 /sss/index.php/Home/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000226s ]
+
+[ 2017-12-08T21:49:28+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+
+[ 2017-12-08T21:50:09+08:00 ] ::1 /sss/index.php/Home/Index/teacher.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+
+[ 2017-12-08T21:50:09+08:00 ] ::1 /sss/index.php/Home/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+
+[ 2017-12-08T21:50:10+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+
+[ 2017-12-08T21:50:18+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html?username=1&name=&Submit=%E6%9F%A5%E6%89%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+
+[ 2017-12-08T21:50:20+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html?username=&name=&Submit=%E6%9F%A5%E6%89%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+
+[ 2017-12-08T21:50:26+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html?username=1&name=1&Submit=%E6%9F%A5%E6%89%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+
+[ 2017-12-08T21:50:50+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000248s ]
+
+[ 2017-12-08T21:50:53+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+
+[ 2017-12-08T21:53:04+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+
+[ 2017-12-08T21:53:08+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html?username=1&name=&Submit=%E6%9F%A5%E6%89%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000744s ]
+
+[ 2017-12-08T21:53:11+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html?username=2&name=&Submit=%E6%9F%A5%E6%89%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000250s ]
+
+[ 2017-12-08T21:53:18+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html?username=&name=22&Submit=%E6%9F%A5%E6%89%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+
+[ 2017-12-08T21:54:40+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000246s ]
+
+[ 2017-12-08T21:54:44+08:00 ] ::1 /sss/index.php/Home/Message/message_checked.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+
+[ 2017-12-08T21:54:51+08:00 ] ::1 /sss/index.php/Home/Message/message_checked.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000247s ]
+
+[ 2017-12-08T21:54:53+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000102s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001233s ]
+
+[ 2017-12-08T21:54:54+08:00 ] ::1 /sss/index.php/Home/Index/teacher.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+
+[ 2017-12-08T21:54:54+08:00 ] ::1 /sss/index.php/Home/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003744s ]
+
+[ 2017-12-08T21:54:56+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+
+[ 2017-12-08T21:55:05+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html?username=1&name=&Submit=%E6%9F%A5%E6%89%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+
+[ 2017-12-08T21:55:47+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+
+[ 2017-12-08T21:56:18+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001153s ]
+
+[ 2017-12-08T21:56:24+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html?username=1&name=&Submit=%E6%9F%A5%E6%89%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000274s ]
+
+[ 2017-12-08T21:56:28+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html?username=2&name=&Submit=%E6%9F%A5%E6%89%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000245s ]
+
+[ 2017-12-08T21:56:36+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html?username=3&name=&Submit=%E6%9F%A5%E6%89%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000260s ]
+
+[ 2017-12-08T21:57:13+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000259s ]
+
+[ 2017-12-08T21:57:19+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+
+[ 2017-12-08T21:57:38+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000252s ]
+
+[ 2017-12-08T21:57:42+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html?username=1&name=&Submit=%E6%9F%A5%E6%89%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000250s ]
+
+[ 2017-12-08T21:57:46+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html?username=2&name=&Submit=%E6%9F%A5%E6%89%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+
+[ 2017-12-08T21:57:50+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html?username=2&name=&Submit=%E6%9F%A5%E6%89%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+
+[ 2017-12-08T21:59:12+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000244s ]
+
+[ 2017-12-08T21:59:13+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000247s ]
+
+[ 2017-12-08T21:59:24+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+
+[ 2017-12-08T21:59:28+08:00 ] ::1 /sss/index.php/Home/Message/message_checked.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+
+[ 2017-12-08T21:59:30+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+
+[ 2017-12-08T22:00:26+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+
+[ 2017-12-08T22:00:31+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000245s ]
+
+[ 2017-12-08T22:00:34+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000247s ]
+
+[ 2017-12-08T22:00:37+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+
+[ 2017-12-08T22:00:42+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000142s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002653s ]
+
+[ 2017-12-08T22:00:45+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000247s ]
+
+[ 2017-12-08T22:02:58+08:00 ] ::1 /sss/index.php/Home/Index/teacher.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000198s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004067s ]
+
+[ 2017-12-08T22:02:58+08:00 ] ::1 /sss/index.php/Home/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+
+[ 2017-12-08T22:03:00+08:00 ] ::1 /sss/index.php/Home/Message/message_checked.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000249s ]
+
+[ 2017-12-08T22:03:02+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+
+[ 2017-12-08T22:03:04+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+
+[ 2017-12-08T22:03:07+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+
+[ 2017-12-08T22:03:09+08:00 ] ::1 /sss/index.php/Home/Index/teacher.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+
+[ 2017-12-08T22:03:09+08:00 ] ::1 /sss/index.php/Home/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+
+[ 2017-12-08T22:03:11+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+
+[ 2017-12-08T22:03:26+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+
+[ 2017-12-08T22:03:38+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+
+[ 2017-12-08T22:03:43+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+
+[ 2017-12-08T22:04:10+08:00 ] ::1 /sss/index.php/Home/Index/teacher.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+
+[ 2017-12-08T22:04:10+08:00 ] ::1 /sss/index.php/Home/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+
+[ 2017-12-08T22:04:12+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+
+[ 2017-12-08T22:06:53+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+
+[ 2017-12-08T22:07:01+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html?username=1&name=&Submit=%E6%9F%A5%E6%89%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+
+[ 2017-12-08T22:07:04+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html?username=2&name=&Submit=%E6%9F%A5%E6%89%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001707s ]
+
+[ 2017-12-08T22:07:08+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html?username=1&name=&Submit=%E6%9F%A5%E6%89%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001564s ]
+
+[ 2017-12-08T22:07:46+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+
+[ 2017-12-08T22:07:50+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html?username=1&name=&Submit=%E6%9F%A5%E6%89%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+
+[ 2017-12-08T22:07:53+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html?username=2&name=&Submit=%E6%9F%A5%E6%89%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000259s ]
+
+[ 2017-12-08T22:07:57+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html?username=&name=1&Submit=%E6%9F%A5%E6%89%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+
+[ 2017-12-08T22:08:00+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html?username=&name=2&Submit=%E6%9F%A5%E6%89%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000226s ]
+
+[ 2017-12-08T22:08:15+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+
+[ 2017-12-08T22:08:20+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html?username=1&name=&Submit=%E6%9F%A5%E6%89%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+
+[ 2017-12-08T22:08:23+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html?username=2&name=&Submit=%E6%9F%A5%E6%89%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+
+[ 2017-12-08T22:09:07+08:00 ] ::1 /sss/index.php/Home/User/manage.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000251s ]
+
+[ 2017-12-08T22:09:09+08:00 ] ::1 /sss/index.php/Home/Message/message_checked.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+
+[ 2017-12-08T22:09:13+08:00 ] ::1 /sss/index.php/Home/Message/message_checked.html?username=2&name=&Submit=%E6%9F%A5%E6%89%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000243s ]
+
+[ 2017-12-08T22:09:17+08:00 ] ::1 /sss/index.php/Home/Message/message_checked.html?username=1&name=&Submit=%E6%9F%A5%E6%89%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+
+[ 2017-12-08T22:09:48+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+
+[ 2017-12-08T22:10:30+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+
+[ 2017-12-08T22:10:32+08:00 ] ::1 /sss/index.php/Home/Message/message_checked.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000252s ]
+
+[ 2017-12-08T22:10:35+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+
+[ 2017-12-08T22:10:44+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+
+[ 2017-12-08T22:10:49+08:00 ] ::1 /sss/index.php/Home/Message/message_checked.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+
+[ 2017-12-08T22:12:34+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000258s ]
+
+[ 2017-12-08T22:12:36+08:00 ] ::1 /sss/index.php/Home/Message/message_checked.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+
+[ 2017-12-08T22:14:36+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+
+[ 2017-12-08T22:14:39+08:00 ] ::1 /sss/index.php/Home/Message/del/id/17.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+
+[ 2017-12-08T22:14:43+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+
+[ 2017-12-08T22:17:22+08:00 ] ::1 /sss/index.php/Home/Message/message_checked.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000258s ]
+
+[ 2017-12-08T22:17:25+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000253s ]
+
+[ 2017-12-08T22:17:26+08:00 ] ::1 /sss/index.php/Home/Message/message_checked.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000241s ]
+
+[ 2017-12-08T22:17:27+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000237s ]
+
+[ 2017-12-08T22:17:28+08:00 ] ::1 /sss/index.php/Home/Message/message_checked.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000154s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001163s ]
+
+[ 2017-12-08T22:17:43+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+
+[ 2017-12-08T22:17:45+08:00 ] ::1 /sss/index.php/Home/Message/message_checked.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+
+[ 2017-12-08T22:17:49+08:00 ] ::1 /sss/index.php/Home/Message/del/id/15.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+
+[ 2017-12-08T22:17:54+08:00 ] ::1 /sss/index.php/Home/Message/message_checked.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+
+[ 2017-12-08T22:20:19+08:00 ] ::1 /sss/index.php/Home/Index/teacher.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+
+[ 2017-12-08T22:20:19+08:00 ] ::1 /sss/index.php/Home/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+
+[ 2017-12-08T22:20:20+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+
+[ 2017-12-08T22:20:23+08:00 ] ::1 /sss/index.php/Home/Message/del/id/16.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+
+[ 2017-12-08T22:20:32+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000262s ]
+
+[ 2017-12-08T22:20:35+08:00 ] ::1 /sss/index.php/Home/Message/message_checked.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+
+[ 2017-12-08T22:20:37+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+
+[ 2017-12-08T22:20:43+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000253s ]
+
+[ 2017-12-08T22:20:57+08:00 ] ::1 /sss/index.php/Home/Message/message_checked.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+
+[ 2017-12-08T22:21:00+08:00 ] ::1 /sss/index.php/Home/Message/del/id/14.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+
+[ 2017-12-08T22:21:04+08:00 ] ::1 /sss/index.php/Home/Index/teacher.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000797s ]
+
+[ 2017-12-08T22:21:04+08:00 ] ::1 /sss/index.php/Home/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+
+[ 2017-12-08T22:21:07+08:00 ] ::1 /sss/index.php/Home/Message/message_checked.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+
+[ 2017-12-08T22:21:33+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+
+[ 2017-12-08T22:21:35+08:00 ] ::1 /sss/index.php/Home/Message/message_checked.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+
+[ 2017-12-08T22:23:15+08:00 ] ::1 /sss/index.php/Home/Index/JiangjinChecked.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000240s ]
+ERR: 非法操作:JiangjinChecked.php
+
+[ 2017-12-08T22:23:16+08:00 ] ::1 /sss/index.php/Home/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+
+[ 2017-12-08T22:23:17+08:00 ] ::1 /sss/index.php/Home/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+
+[ 2017-12-08T22:23:20+08:00 ] ::1 /sss/index.php/Home/Notice/edit_notice.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000252s ]
+
+[ 2017-12-08T22:23:27+08:00 ] ::1 /sss/index.php/Home/User/manage.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+
+[ 2017-12-08T22:23:31+08:00 ] ::1 /sss/index.php/Home/Message/message_checked.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+
+[ 2017-12-08T22:23:33+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000248s ]
+
+[ 2017-12-08T22:23:34+08:00 ] ::1 /sss/index.php/Home/Message/message_checked.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+
+[ 2017-12-08T22:23:46+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+
+[ 2017-12-08T22:23:47+08:00 ] ::1 /sss/index.php/Home/Message/message_checked.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000240s ]
+
+[ 2017-12-08T22:23:49+08:00 ] ::1 /sss/index.php/Home/Index/teacher.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+
+[ 2017-12-08T22:23:49+08:00 ] ::1 /sss/index.php/Home/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000249s ]
+
+[ 2017-12-08T22:23:50+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+
+[ 2017-12-08T22:24:39+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+
+[ 2017-12-08T22:24:39+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000254s ]
+
+[ 2017-12-08T22:24:40+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+
+[ 2017-12-08T22:24:40+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+
+[ 2017-12-08T22:26:08+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000241s ]
+
+[ 2017-12-08T22:26:10+08:00 ] ::1 /sss/index.php/Home/Message/message_checked.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+
+[ 2017-12-08T22:26:14+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+
+[ 2017-12-08T22:27:28+08:00 ] ::1 /sss/index.php/Home/Index/teacher.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+
+[ 2017-12-08T22:27:28+08:00 ] ::1 /sss/index.php/Home/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000517s ]
+
+[ 2017-12-08T22:27:29+08:00 ] ::1 /sss/index.php/Home/Index/teacher.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+
+[ 2017-12-08T22:27:29+08:00 ] ::1 /sss/index.php/Home/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+
+[ 2017-12-08T22:31:19+08:00 ] ::1 /sss/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+
+[ 2017-12-08T22:31:29+08:00 ] ::1 /sss/index.php/Home/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+
+[ 2017-12-08T22:31:31+08:00 ] ::1 /sss/index.php/Home/Index/teacher.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+
+[ 2017-12-08T22:31:31+08:00 ] ::1 /sss/index.php/Home/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+
+[ 2017-12-08T22:31:34+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+
+[ 2017-12-08T22:33:29+08:00 ] ::1 /sss/index.php/Home/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+
+[ 2017-12-08T22:35:54+08:00 ] ::1 /sss/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+
+[ 2017-12-08T22:40:13+08:00 ] ::1 /sss/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001824s ]
+
+[ 2017-12-08T22:42:29+08:00 ] ::1 /sss/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+

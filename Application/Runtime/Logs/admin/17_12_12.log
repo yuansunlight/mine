@@ -1,0 +1,222 @@
+[ 2017-12-12T10:40:35+08:00 ] ::1 /sss/index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.020299s ]
+
+[ 2017-12-12T10:42:00+08:00 ] ::1 /sss/index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001297s ]
+
+[ 2017-12-12T14:24:08+08:00 ] ::1 /sss/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000262s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003220s ]
+
+[ 2017-12-12T14:24:15+08:00 ] ::1 /sss/index.php/Admin/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000947s ]
+ERR: 模板不存在:./Application/Admin/View/Index/login.html
+
+[ 2017-12-12T14:24:17+08:00 ] ::1 /sss/index.php/Admin/Index/admin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000575s ]
+
+[ 2017-12-12T14:24:17+08:00 ] ::1 /sss/index.php/Admin/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+
+[ 2017-12-12T14:24:20+08:00 ] ::1 /sss/index.php/Admin/Teacher/teacher_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+
+[ 2017-12-12T14:24:24+08:00 ] ::1 /sss/index.php/Admin/Teacher/del/id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000244s ]
+
+[ 2017-12-12T14:24:27+08:00 ] ::1 /sss/index.php/Admin/Teacher/teacher_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+
+[ 2017-12-12T14:25:57+08:00 ] ::1 /sss/index.php/Admin/Teacher/teacher_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000258s ]
+
+[ 2017-12-12T14:26:01+08:00 ] ::1 /sss/index.php/Admin/Index/admin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+
+[ 2017-12-12T14:26:01+08:00 ] ::1 /sss/index.php/Admin/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003588s ]
+
+[ 2017-12-12T14:26:03+08:00 ] ::1 /sss/index.php/Admin/Teacher/teacher_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001295s ]
+
+[ 2017-12-12T14:26:11+08:00 ] ::1 /sss/index.php/Admin/Teacher/teacher_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+
+[ 2017-12-12T14:26:14+08:00 ] ::1 /sss/index.php/Admin/Teacher/teacher_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+
+[ 2017-12-12T14:27:43+08:00 ] ::1 /sss/index.php/Admin/Teacher/teacher_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+
+[ 2017-12-12T14:27:45+08:00 ] ::1 /sss/index.php/Admin/Teacher/teacher_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+
+[ 2017-12-12T14:27:47+08:00 ] ::1 /sss/index.php/Admin/Teacher/teacher_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000243s ]
+
+[ 2017-12-12T14:28:59+08:00 ] ::1 /sss/index.php/Admin/Teacher/teacher_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+
+[ 2017-12-12T14:29:01+08:00 ] ::1 /sss/index.php/Admin/Teacher/teacher_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+
+[ 2017-12-12T14:29:37+08:00 ] ::1 /sss/index.php/Admin/Teacher/edit/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+
+[ 2017-12-12T14:29:49+08:00 ] ::1 /sss/index.php/Admin/Teacher/edit/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+
+[ 2017-12-12T14:29:51+08:00 ] ::1 /sss/index.php/Admin/Teacher/teacher_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+
+[ 2017-12-12T14:29:54+08:00 ] ::1 /sss/index.php/Admin/Teacher/teacher_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+
+[ 2017-12-12T14:30:11+08:00 ] ::1 /sss/index.php/Admin/Teacher/teacher_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+
+[ 2017-12-12T14:30:14+08:00 ] ::1 /sss/index.php/Admin/Teacher/teacher_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000258s ]
+
+[ 2017-12-12T14:30:30+08:00 ] ::1 /sss/index.php/Admin/Student/manage.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+
+[ 2017-12-12T14:30:33+08:00 ] ::1 /sss/index.php/Admin/Student/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000250s ]
+
+[ 2017-12-12T14:30:35+08:00 ] ::1 /sss/index.php/Admin/Student/manage.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000235s ]
+
+[ 2017-12-12T14:30:41+08:00 ] ::1 /sss/index.php/Admin/Index/logout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000240s ]
+
+[ 2017-12-12T14:30:43+08:00 ] ::1 /sss/index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+
+[ 2017-12-12T14:30:49+08:00 ] ::1 /sss/index.php/Admin/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+ERR: 模板不存在:./Application/Admin/View/Index/login.html
+
+[ 2017-12-12T14:30:51+08:00 ] ::1 /sss/index.php/Admin/Index/admin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+
+[ 2017-12-12T14:30:51+08:00 ] ::1 /sss/index.php/Admin/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000578s ]
+
+[ 2017-12-12T15:08:05+08:00 ] ::1 /sss/index.php/Admin/Teacher/teacher_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+
+[ 2017-12-12T15:08:46+08:00 ] ::1 /sss/index.php/Admin/Index/admin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+
+[ 2017-12-12T15:08:46+08:00 ] ::1 /sss/index.php/Admin/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+
+[ 2017-12-12T15:08:49+08:00 ] ::1 /sss/index.php/Admin/Teacher/teacher_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+
+[ 2017-12-12T15:08:50+08:00 ] ::1 /sss/index.php/Admin/Teacher/teacher_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+
+[ 2017-12-12T15:08:52+08:00 ] ::1 /sss/index.php/Admin/Teacher/teacher_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+
+[ 2017-12-12T15:08:55+08:00 ] ::1 /sss/index.php/Admin/Teacher/teacher_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+
+[ 2017-12-12T15:08:58+08:00 ] ::1 /sss/index.php/Admin/Manage/addhonor.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+
+[ 2017-12-12T15:09:15+08:00 ] ::1 /sss/index.php/Admin/Index/logout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+
+[ 2017-12-12T15:09:16+08:00 ] ::1 /sss/index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+

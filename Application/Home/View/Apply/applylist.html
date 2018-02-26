@@ -1,0 +1,103 @@
+<html>
+<head> 
+<title></title>
+<LINK href="__CSS__/bootstrap.css" type=text/css rel=stylesheet>
+<LINK href="__CSS__/style.css" type=text/css rel=stylesheet>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style type="text/css">
+<!--
+.STYLE2 {
+	color: #FFFFFF;
+	font-weight: bold;
+}
+.STYLE3 {color: #6D2E18; font-weight: bold; }
+-->
+.ull ul{
+    margin:0 auto;
+
+  }
+  .ull ul li{
+    float:left;
+    margin-right:20px; 
+
+  }
+</style>
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<foreach name="data" item="value" >
+  <div class="main">
+  <table width="969" height="" border="0" align="center" cellpadding="0" cellspacing="0" id="__01">
+   
+  <tr>
+    <td><table id="__01" width="969" height="740" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+          
+            <td valign="top"><table id="__01" width="725" height="740" border="0" cellpadding="0" cellspacing="0">
+              
+              <tr>
+                <td valign="top"><table id="__01" width="725" height="258" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <td width="725" height="42" background="qtimages/1_02_02_01_01.gif"><table width="97%" border="0" align="center" cellpadding="0" cellspacing="0">
+                        <tr>
+                          <br><br><br>
+                          <td width="83%"><div align="center" class="title" style="font-size: 25px;font-family:'宋体'; ">我的申请</div></td><br>
+                        </tr>
+                  <tr><td><br><br></td></tr>
+                    </table></td>
+                  </tr>
+                  <tr>
+                    <td><table id="__01" width="725" height="508" border="0" cellpadding="0" cellspacing="0">
+                        <tr>
+                          <td width="10" background="qtimages/1_02_02_01_02_01.gif">&nbsp;</td>
+                          <td width="703" height="508" valign="top"><table width="90%" border="1" align="center" cellpadding="3" cellspacing="1" bordercolor="#B8D8E8" style="border-collapse:collapse">  
+                            <tr >
+                              <!-- <td class="cc" width="11" rowspan="4" valign="top">&nbsp;</td> -->
+                              <td class="cc" width="85" rowspan="4" align="center" valign="middle"> 申请审核 </td>
+                              <td class="cc" align="center" valign="middle" style="height: 100px">姓名： {$value.name}&nbsp;&nbsp;</td> 
+                           
+                           <td class="cc" align="center" valign="middle" style="height: 100px">学号：  {$value.username}&nbsp; &nbsp;</td>
+                           
+                           <td class="cc" align="center" valign="middle" style="height: 100px">&nbsp; &nbsp;班级： {$value.classes}&nbsp;&nbsp;</td>
+                              <!-- <td class="cc" width="12" rowspan="4" valign="top" style="width: 10px">&nbsp;</td> -->
+                            </tr>
+                            <tr>  <td class="cc" align="center" valign="middle" style="height: 100px">&nbsp; &nbsp;学年： {$value.year}</td>
+                              <td class="cc" height="50" colspan="2" align="center" valign="middle">&nbsp; &nbsp; 申请时间: {$value.addtime}</td>
+                            </tr>
+                            <tr>
+                              <td class="cc"  align="left" valign="middle" style="height: 100px">&nbsp; &nbsp;排名：  {$value.rank}</td>
+                              <td class="cc"  align="left" valign="middle" style="height: 100px">&nbsp; &nbsp;&nbsp;申报类别： {$value.leibie}</td>
+                              <td class="cc"  align="left" valign="middle" style="height: 100px">&nbsp; &nbsp;申报名称： {$value.mingcheng}</td>
+                            </tr>
+                            <tr>
+                              <td  height="238" align="center" colspan="2" valign="middle"><p>申请理由：{$value.instruction}</p> <p class="cc"></p></td>
+                              <td  height="238" align="center" valign="middle"><p>审核结果：
+                                <if condition="$value.result eq -1 ">等待审核</if>
+                                <if condition="$value.result eq 1 ">审核通过</if>
+                                <if condition="$value.result eq 0 ">审核失败</if></p>
+                                <p id="red" class="cc"> </p></td>
+                            </tr>
+                    </table>
+  </tr>
+  <tr>
+  </tr>
+</table>
+</foreach>
+<br>
+<div class="ull">
+    <ul id="ul" style="list-style: none;font-size:23px;color:white;">
+    <if condition="$page gt 1">
+     <li><a class="btn btn-primary glyphicon glyphicon-chevron-left" href="{:U('applylist', array('page'=>$pre))}"></a></li>
+    </if>
+    
+    <for start="1" end="$pages+1">
+      <li><a class="btn btn-primary" style="font-size:16px;" href="{:U('applylist', array('page'=>$i))}">{$i}</a></li>
+    </for>
+
+    <if condition="$page lt $pages">
+      <li><a  class="btn btn-primary glyphicon glyphicon-chevron-right" href="{:U('applylist', array('page'=>$next))}"></a></li>
+    </if>
+    </ul>
+  </div>
+</div>
+</body>
+</html>

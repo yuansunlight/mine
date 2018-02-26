@@ -1,0 +1,35 @@
+[ 2017-12-29T22:23:14+08:00 ] ::1 /sss/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.018080s ]
+
+[ 2017-12-29T22:23:19+08:00 ] ::1 /sss/index.php/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001278s ]
+
+[ 2017-12-29T22:23:20+08:00 ] ::1 /sss/index.php/Index/teacher.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+
+[ 2017-12-29T22:23:21+08:00 ] ::1 /sss/index.php/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+
+[ 2017-12-29T22:23:22+08:00 ] ::1 /sss/index.php/User/add_banzhuren.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+
+[ 2017-12-29T22:23:23+08:00 ] ::1 /sss/index.php/User/banzhuren_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+
+[ 2017-12-29T22:23:26+08:00 ] ::1 /sss/index.php/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+

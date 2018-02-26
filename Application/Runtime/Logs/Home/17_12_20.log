@@ -1,0 +1,427 @@
+[ 2017-12-20T13:44:06+08:00 ] ::1 /sss/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.016596s ]
+
+[ 2017-12-20T13:44:42+08:00 ] ::1 /sss/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+
+[ 2017-12-20T13:44:51+08:00 ] ::1 /sss/index.php/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000253s ]
+
+[ 2017-12-20T13:44:53+08:00 ] ::1 /sss/index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002060s ]
+
+[ 2017-12-20T13:45:05+08:00 ] ::1 /sss/index.php/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001482s ]
+
+[ 2017-12-20T13:45:07+08:00 ] ::1 /sss/index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000240s ]
+
+[ 2017-12-20T13:47:03+08:00 ] ::1 /sss/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+
+[ 2017-12-20T13:47:11+08:00 ] ::1 /sss/index.php/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000555s ]
+
+[ 2017-12-20T13:47:12+08:00 ] ::1 /sss/index.php/Index/teacher.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+
+[ 2017-12-20T13:47:12+08:00 ] ::1 /sss/index.php/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+
+[ 2017-12-20T13:47:15+08:00 ] ::1 /sss/index.php/Jiangjin/teachersee.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+
+[ 2017-12-20T13:47:17+08:00 ] ::1 /sss/index.php/Jiangjin/teachersee.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+
+[ 2017-12-20T13:47:19+08:00 ] ::1 /sss/index.php/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000238s ]
+
+[ 2017-12-20T13:47:21+08:00 ] ::1 /sss/index.php/Notice/add_notice.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000240s ]
+
+[ 2017-12-20T13:47:21+08:00 ] ::1 /sss/index.php/Notice/Images/Upload.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001131s ]
+
+[ 2017-12-20T13:47:28+08:00 ] ::1 /sss/index.php/Message/message_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+
+[ 2017-12-20T13:47:30+08:00 ] ::1 /sss/index.php/Jiangjin/jianged.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000239s ]
+
+[ 2017-12-20T13:47:32+08:00 ] ::1 /sss/index.php/User/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+
+[ 2017-12-20T13:47:34+08:00 ] ::1 /sss/index.php/User/add_banzhuren.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+
+[ 2017-12-20T13:55:21+08:00 ] ::1 /sss/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+
+[ 2017-12-20T13:55:29+08:00 ] ::1 /sss/index.php/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000258s ]
+
+[ 2017-12-20T13:55:31+08:00 ] ::1 /sss/index.php/Index/student.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+
+[ 2017-12-20T13:55:31+08:00 ] ::1 /sss/index.php/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+
+[ 2017-12-20T13:55:34+08:00 ] ::1 /sss/index.php/User/message.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+
+[ 2017-12-20T13:55:35+08:00 ] ::1 /sss/index.php/User/update.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+
+[ 2017-12-20T13:55:37+08:00 ] ::1 /sss/index.php/Notice/notice.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+
+[ 2017-12-20T13:55:41+08:00 ] ::1 /sss/index.php/Ceping/ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000253s ]
+
+[ 2017-12-20T13:55:43+08:00 ] ::1 /sss/index.php/Apply/apply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+
+[ 2017-12-20T13:55:43+08:00 ] ::1 /sss/index.php/Apply/qtimages/1_02_02_01_03.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000212s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002363s ]
+
+[ 2017-12-20T13:55:43+08:00 ] ::1 /sss/index.php/Apply/qtimages/1_02_02_01_01.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+
+[ 2017-12-20T13:55:43+08:00 ] ::1 /sss/index.php/Apply/qtimages/1_02_02_01_02_01.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+
+[ 2017-12-20T13:55:43+08:00 ] ::1 /sss/index.php/Apply/qtimages/1_02_02_01_02_04.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+
+[ 2017-12-20T13:55:53+08:00 ] ::1 /sss/index.php/Apply/apply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+
+[ 2017-12-20T13:55:53+08:00 ] ::1 /sss/index.php/Apply/qtimages/1_02_02_01_03.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+
+[ 2017-12-20T13:55:53+08:00 ] ::1 /sss/index.php/Apply/qtimages/1_02_02_01_02_04.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+
+[ 2017-12-20T13:55:53+08:00 ] ::1 /sss/index.php/Apply/qtimages/1_02_02_01_01.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002415s ]
+
+[ 2017-12-20T13:55:53+08:00 ] ::1 /sss/index.php/Apply/qtimages/1_02_02_01_02_01.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+
+[ 2017-12-20T13:55:59+08:00 ] ::1 /sss/index.php/Jiangjin/see.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+
+[ 2017-12-20T13:56:01+08:00 ] ::1 /sss/index.php/Rongyu/see.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000235s ]
+
+[ 2017-12-20T13:56:03+08:00 ] ::1 /sss/index.php/Message/publish.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+
+[ 2017-12-20T13:56:03+08:00 ] ::1 /sss/index.php/Message/qtimages/1_02_02_01_03.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+
+[ 2017-12-20T13:56:03+08:00 ] ::1 /sss/index.php/Message/qtimages/1_02_02_01_01.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+
+[ 2017-12-20T13:56:03+08:00 ] ::1 /sss/index.php/Message/qtimages/1_02_02_01_02_01.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+
+[ 2017-12-20T13:56:03+08:00 ] ::1 /sss/index.php/Message/qtimages/1_02_02_01_02_04.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+
+[ 2017-12-20T14:12:29+08:00 ] ::1 /sss/index.php/Ceping/ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000254s ]
+
+[ 2017-12-20T14:12:31+08:00 ] ::1 /sss/index.php/Notice/notice.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+
+[ 2017-12-20T14:12:35+08:00 ] ::1 /sss/index.php/Notice/notice/page/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+
+[ 2017-12-20T14:12:37+08:00 ] ::1 /sss/index.php/User/message.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+
+[ 2017-12-20T14:12:39+08:00 ] ::1 /sss/index.php/Apply/applylist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000238s ]
+
+[ 2017-12-20T14:12:39+08:00 ] ::1 /sss/index.php/Apply/qtimages/1_02_02_01_03.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+
+[ 2017-12-20T14:12:39+08:00 ] ::1 /sss/index.php/Apply/qtimages/1_02_02_01_02_01.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+
+[ 2017-12-20T14:12:39+08:00 ] ::1 /sss/index.php/Apply/qtimages/1_02_02_01_02_04.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002021s ]
+
+[ 2017-12-20T14:12:43+08:00 ] ::1 /sss/index.php/Apply/applylist/page/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+
+[ 2017-12-20T14:12:43+08:00 ] ::1 /sss/index.php/Apply/applylist/page/qtimages/1_02_02_01_03.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000243s ]
+
+[ 2017-12-20T14:12:43+08:00 ] ::1 /sss/index.php/Apply/applylist/page/qtimages/1_02_02_01_01.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+
+[ 2017-12-20T14:12:43+08:00 ] ::1 /sss/index.php/Apply/applylist/page/qtimages/1_02_02_01_02_01.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+
+[ 2017-12-20T14:12:43+08:00 ] ::1 /sss/index.php/Apply/applylist/page/qtimages/1_02_02_01_02_04.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+
+[ 2017-12-20T14:12:44+08:00 ] ::1 /sss/index.php/Apply/applylist/page/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+
+[ 2017-12-20T14:12:44+08:00 ] ::1 /sss/index.php/Apply/applylist/page/qtimages/1_02_02_01_03.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+
+[ 2017-12-20T14:12:44+08:00 ] ::1 /sss/index.php/Apply/applylist/page/qtimages/1_02_02_01_02_04.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+
+[ 2017-12-20T14:12:44+08:00 ] ::1 /sss/index.php/Apply/applylist/page/qtimages/1_02_02_01_02_01.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000237s ]
+
+[ 2017-12-20T14:12:46+08:00 ] ::1 /sss/index.php/Apply/applylist/page/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+
+[ 2017-12-20T14:12:46+08:00 ] ::1 /sss/index.php/Apply/applylist/page/qtimages/1_02_02_01_03.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+
+[ 2017-12-20T14:12:46+08:00 ] ::1 /sss/index.php/Apply/applylist/page/qtimages/1_02_02_01_02_04.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+
+[ 2017-12-20T14:12:46+08:00 ] ::1 /sss/index.php/Apply/applylist/page/qtimages/1_02_02_01_02_01.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+
+[ 2017-12-20T14:12:47+08:00 ] ::1 /sss/index.php/Apply/applylist/page/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000252s ]
+
+[ 2017-12-20T14:12:47+08:00 ] ::1 /sss/index.php/Apply/applylist/page/qtimages/1_02_02_01_03.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+
+[ 2017-12-20T14:12:47+08:00 ] ::1 /sss/index.php/Apply/applylist/page/qtimages/1_02_02_01_01.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+
+[ 2017-12-20T14:12:47+08:00 ] ::1 /sss/index.php/Apply/applylist/page/qtimages/1_02_02_01_02_04.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+
+[ 2017-12-20T14:12:51+08:00 ] ::1 /sss/index.php/Apply/applylist/page/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+
+[ 2017-12-20T14:12:51+08:00 ] ::1 /sss/index.php/Apply/applylist/page/qtimages/1_02_02_01_03.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001625s ]
+
+[ 2017-12-20T14:12:51+08:00 ] ::1 /sss/index.php/Apply/applylist/page/qtimages/1_02_02_01_02_01.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+
+[ 2017-12-20T14:12:51+08:00 ] ::1 /sss/index.php/Apply/applylist/page/qtimages/1_02_02_01_01.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+
+[ 2017-12-20T14:12:51+08:00 ] ::1 /sss/index.php/Apply/applylist/page/qtimages/1_02_02_01_02_04.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+
+[ 2017-12-20T14:12:54+08:00 ] ::1 /sss/index.php/Apply/applylist/page/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+
+[ 2017-12-20T14:12:54+08:00 ] ::1 /sss/index.php/Apply/applylist/page/qtimages/1_02_02_01_03.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+
+[ 2017-12-20T14:12:54+08:00 ] ::1 /sss/index.php/Apply/applylist/page/qtimages/1_02_02_01_01.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+
+
+
+[ 2017-12-20T14:12:54+08:00 ] ::1 /sss/index.php/Apply/applylist/page/qtimages/1_02_02_01_02_04.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+
+[ 2017-12-20T14:12:56+08:00 ] ::1 /sss/index.php/Apply/applylist/page/8.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+
+[ 2017-12-20T14:12:56+08:00 ] ::1 /sss/index.php/Apply/applylist/page/qtimages/1_02_02_01_03.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+
+[ 2017-12-20T14:12:56+08:00 ] ::1 /sss/index.php/Apply/applylist/page/qtimages/1_02_02_01_02_01.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+
+[ 2017-12-20T14:12:56+08:00 ] ::1 /sss/index.php/Apply/applylist/page/qtimages/1_02_02_01_01.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+
+[ 2017-12-20T14:12:56+08:00 ] ::1 /sss/index.php/Apply/applylist/page/qtimages/1_02_02_01_02_04.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+
+[ 2017-12-20T15:46:32+08:00 ] ::1 /sss/index.php/Index/logout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+
+[ 2017-12-20T15:46:33+08:00 ] ::1 /sss/index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+

@@ -1,0 +1,290 @@
+[ 2017-12-19T12:04:10+08:00 ] ::1 /sss/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.062407s ]
+
+[ 2017-12-19T12:43:41+08:00 ] ::1 /sss/index.php/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000134s ]
+INFO: [ app_init ] --END-- [ RunTime:0.145376s ]
+
+[ 2017-12-19T12:43:53+08:00 ] ::1 /sss/index.php/Index/teacher.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+
+[ 2017-12-19T12:43:53+08:00 ] ::1 /sss/index.php/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+
+[ 2017-12-19T12:43:59+08:00 ] ::1 /sss/index.php/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+
+[ 2017-12-19T12:46:16+08:00 ] ::1 /sss/index.php/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000245s ]
+
+[ 2017-12-19T12:46:17+08:00 ] ::1 /sss/index.php/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000240s ]
+
+[ 2017-12-19T12:46:19+08:00 ] ::1 /sss/index.php/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+
+[ 2017-12-19T12:46:23+08:00 ] ::1 /sss/index.php/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+
+[ 2017-12-19T12:46:27+08:00 ] ::1 /sss/index.php/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+
+[ 2017-12-19T12:46:43+08:00 ] ::1 /sss/index.php/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000241s ]
+
+[ 2017-12-19T12:46:45+08:00 ] ::1 /sss/index.php/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+
+[ 2017-12-19T12:48:19+08:00 ] ::1 /sss/index.php/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+
+[ 2017-12-19T12:48:22+08:00 ] ::1 /sss/index.php/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+ERR: 1062:Duplicate entry '' for key 's2'
+ [ SQL语句 ] : INSERT INTO `ceping` (`year`,`classes`,`username`,`name`,`gpa`,`sports`,`practice`,`honor`,`outtime`,`fail`,`bid`) VALUES ('2016','20142831','','','0','0','0','0','0','0','20142831')
+
+[ 2017-12-19T12:48:43+08:00 ] ::1 /sss/index.php/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+
+[ 2017-12-19T12:48:45+08:00 ] ::1 /sss/index.php/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+ERR: 1062:Duplicate entry '' for key 's2'
+ [ SQL语句 ] : INSERT INTO `ceping` (`year`,`classes`,`username`,`name`,`gpa`,`sports`,`practice`,`honor`,`outtime`,`fail`,`bid`) VALUES ('2016','20142831','','','0','0','0','0','0','0','20142831')
+
+[ 2017-12-19T12:49:26+08:00 ] ::1 /sss/index.php/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+
+[ 2017-12-19T12:49:29+08:00 ] ::1 /sss/index.php/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000262s ]
+ERR: 1062:Duplicate entry '' for key 's2'
+ [ SQL语句 ] : INSERT INTO `ceping` (`year`,`classes`,`username`,`name`,`gpa`,`sports`,`practice`,`honor`,`outtime`,`fail`,`bid`) VALUES ('2016','20142831','','','0','0','0','0','0','0','20142831')
+
+[ 2017-12-19T12:49:30+08:00 ] ::1 /sss/index.php/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+ERR: 1062:Duplicate entry '' for key 's2'
+ [ SQL语句 ] : INSERT INTO `ceping` (`year`,`classes`,`username`,`name`,`gpa`,`sports`,`practice`,`honor`,`outtime`,`fail`,`bid`) VALUES ('2016','20142831','','','0','0','0','0','0','0','20142831')
+
+[ 2017-12-19T12:50:17+08:00 ] ::1 /sss/index.php/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+
+[ 2017-12-19T12:50:20+08:00 ] ::1 /sss/index.php/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+ERR: 1062:Duplicate entry '' for key 's2'
+ [ SQL语句 ] : INSERT INTO `ceping` (`year`,`classes`,`username`,`name`,`gpa`,`sports`,`practice`,`honor`,`outtime`,`fail`,`bankcard`,`bid`) VALUES ('2016','20142831','','','0','0','0','0','0','0','666658999','20142831')
+
+[ 2017-12-19T12:50:38+08:00 ] ::1 /sss/index.php/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000126s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003625s ]
+
+[ 2017-12-19T12:54:49+08:00 ] ::1 /sss/index.php/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012700s ]
+
+[ 2017-12-19T12:54:59+08:00 ] ::1 /sss/index.php/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+
+[ 2017-12-19T12:57:06+08:00 ] ::1 /sss/index.php/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+
+[ 2017-12-19T14:43:58+08:00 ] ::1 /sss/index.php/User/manage.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.016736s ]
+
+[ 2017-12-19T14:44:08+08:00 ] ::1 /sss/index.php/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+
+[ 2017-12-19T14:44:12+08:00 ] ::1 /sss/index.php/Jiangjin/teachersee.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+
+[ 2017-12-19T14:44:15+08:00 ] ::1 /sss/index.php/Ceping/add_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000248s ]
+
+[ 2017-12-19T14:44:17+08:00 ] ::1 /sss/index.php/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+
+[ 2017-12-19T14:44:18+08:00 ] ::1 /sss/index.php/Jiangjin/teachersee.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+
+[ 2017-12-19T14:44:19+08:00 ] ::1 /sss/index.php/Jiangjin/teachersee.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+
+[ 2017-12-19T14:44:20+08:00 ] ::1 /sss/index.php/Jiangjin/teachersee.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+
+[ 2017-12-19T14:44:20+08:00 ] ::1 /sss/index.php/Jiangjin/teachersee.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+
+[ 2017-12-19T14:44:22+08:00 ] ::1 /sss/index.php/Jiangjin/teachersee.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+
+[ 2017-12-19T14:44:22+08:00 ] ::1 /sss/index.php/Jiangjin/teachersee.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+
+[ 2017-12-19T14:44:30+08:00 ] ::1 /sss/index.php/Rongyu/teachersee.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000678s ]
+
+[ 2017-12-19T14:44:31+08:00 ] ::1 /sss/index.php/Jiangjin/teachersee.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+
+[ 2017-12-19T14:45:05+08:00 ] ::1 /sss/index.php/Jiangjin/teachersee.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+
+[ 2017-12-19T14:45:08+08:00 ] ::1 /sss/index.php/Jiangjin/teachersee.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000244s ]
+
+[ 2017-12-19T14:45:12+08:00 ] ::1 /sss/index.php/Home/Ceping/ceping1/username/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+
+[ 2017-12-19T14:45:55+08:00 ] ::1 /sss/index.php/Notice/edit_notice.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+
+[ 2017-12-19T14:45:56+08:00 ] ::1 /sss/index.php/Ceping/list_ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000226s ]
+
+[ 2017-12-19T14:47:29+08:00 ] ::1 /sss/index.php/Jiangjin/jiang.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+
+[ 2017-12-19T14:47:30+08:00 ] ::1 /sss/index.php/Jiangjin/teachersee.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+
+[ 2017-12-19T14:47:33+08:00 ] ::1 /sss/index.php/Home/Ceping/ceping1/username/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+
+[ 2017-12-19T14:48:34+08:00 ] ::1 /sss/index.php/Home/Ceping/ceping1/username/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001491s ]
+
+[ 2017-12-19T14:48:40+08:00 ] ::1 /sss/index.php/Jiangjin/jiang.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+
+[ 2017-12-19T14:48:43+08:00 ] ::1 /sss/index.php/Jiangjin/teachersee.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+
+[ 2017-12-19T14:49:00+08:00 ] ::1 /sss/index.php/Home/Ceping/ceping1/username/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+
+[ 2017-12-19T14:49:06+08:00 ] ::1 /sss/index.php/Index/logout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+
+[ 2017-12-19T14:49:08+08:00 ] ::1 /sss/index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+
+[ 2017-12-19T14:49:14+08:00 ] ::1 /sss/index.php/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001079s ]
+
+[ 2017-12-19T14:49:16+08:00 ] ::1 /sss/index.php/Index/student.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+
+[ 2017-12-19T14:49:17+08:00 ] ::1 /sss/index.php/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+
+[ 2017-12-19T14:49:20+08:00 ] ::1 /sss/index.php/Ceping/ceping.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+

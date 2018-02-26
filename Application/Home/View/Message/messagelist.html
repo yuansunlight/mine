@@ -1,0 +1,50 @@
+<html>
+<head> 
+<title></title>
+<LINK href="__CSS__/style.css" type=text/css rel=stylesheet>
+<LINK href="__CSS__/bootstrap.css" type=text/css rel=stylesheet>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style type="text/css">
+<!--
+td  
+{  
+    text-align:center;  
+}  
+
+.STYLE2 {
+	color: #FFFFFF;
+	font-weight: bold;
+}
+.STYLE3 {color: #6D2E18; font-weight: bold; }
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+  <div style="margin: 100px 100px;">
+    <h3><p style=" text-align: center;">我的留言</p></h3>
+    <br>
+    <table class="table table-bordered">
+
+  <tr>
+    <td class="info">学号</td>
+    <td class="info">姓名</td>
+    <td class="info">留言</td>
+    <td class="info">回复</td> 
+    <td class="info">留言时间</td>
+    <td class="info">回复人</td>
+  </tr>
+  <foreach name="data" item="value" key="k">
+  <tr>
+    <td>{$value.zhanghao}</td>
+    <td>{$value.xingming}</td>
+    <td>{$value.liuyan}</td>
+    <td>{$value.huifu}</td>
+    <td>{$value.addtime}</td>
+    <td>{$value.huifuren}</td>
+  </tr>
+  </foreach>
+  </table>
+  </div>
+
+</body>
+</html>

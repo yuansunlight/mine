@@ -1,0 +1,125 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head> 
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>用户注册</title>
+<style type="text/css">
+  td{
+    height:30px;
+    text-align: center;
+  }
+  .book{
+    margin:50px 50px 0 50px;
+  }
+  .table{
+    margin-top:30px;
+  }
+  .btn{
+    color:white;
+    width: 60px;
+    height: 30px;
+    border-radius: 5px;
+    background-color:#1F7FD2;
+  }
+  .ull ul{
+    margin:0 auto;
+
+  }
+  .ull ul li{
+    float:left;
+    margin-right:20px; 
+
+  }
+</style>
+<link rel="stylesheet" href="__CSS__/css.css" type="text/css">
+
+</head>
+
+<body>
+  <div class="main">
+    <div class="book">
+  <p>已有学生列表：</p>
+<form id="form1" name="form1" method="get" action="{:U('manage')}">
+  搜索:
+  <select style="height:25px;" name="xy" id="xy" onChange="autoSubmit();">
+     <option  value="">学院</option>
+    <foreach name="xy" item="value">
+    <option value="{$value.xy}">{$value.xy}</option>
+    <if condition="$aa eq $value.xy">
+      <option value="{$value.xy}" selected>{$value.xy}</option>
+    </if>
+  </foreach>
+  </select>
+  <select style="height:25px;" name="classes" id="classes" onChange="autoSubmit();">
+     <option  value="">班级</option>
+    <foreach name="class" item="value">
+    <option value="{$value.classes}">{$value.classes}</option>
+    <if condition="$classes eq $value.classes">
+      <option value="{$value.classes}" selected>{$value.classes}</option>
+    </if>
+  </foreach>
+  </select>
+  账号:
+  <input name="username" type="text" id="username" value="{$_POST['username']}" />
+  姓名:
+  <input name="name" type="text" id="name" value="{$_POST['name']}"  />
+  <input class="btn btn-success" type="submit" name="Submit" value="查找" />
+</form>
+<div class="table">
+  <table width="100%" border="1" align="center" cellpadding="3" cellspacing="1" bordercolor="#6699CC" style="border-collapse:collapse">  
+  <tr>
+    <td width="25" bgcolor="#EBE2FE">序号</td>
+    <td width="94" bgcolor='#EBE2FE'>学号</td>
+    <td width="86" bgcolor='#EBE2FE'>班级</td>
+    <td width="94" bgcolor='#EBE2FE'>姓名</td>
+    <td width="94" bgcolor='#EBE2FE'>性别</td>
+    <td width="167" bgcolor='#EBE2FE'>地区</td>
+    <td width="204" bgcolor='#EBE2FE'>银行卡号</td>  
+    <td width="120" align="center" bgcolor="#EBE2FE">添加时间</td>
+    <td width="70" align="center" bgcolor="#EBE2FE">操作</td>
+  </tr>
+  <foreach name="data" item="value" key="k">
+    <tr>
+      <td>{$k+1}</td>
+      <td>{$value.username}</td>
+      <td>{$value.classes}</td>
+      <td>{$value.name}</td>
+      <td>{$value.sex}</td>
+      <td>{$value.home}</td>
+      <td>{$value.bankcard}</td>
+      <td>{$value.addtime}</td>
+      <td><a href="{:U('Home/User/edit', array('id'=>$value['id']))}" title="编辑"><span class="glyphicon glyphicon-pencil"></span></a>&nbsp;
+         <a href="{:U('Home/User/del', array('id'=>$value['id']))}" title="删除"><span class="glyphicon glyphicon-trash"></span></a>
+        </td> 
+    </tr>
+  </foreach>
+</div>
+
+</div>
+<div class="ull">
+    <ul style="list-style: none;position:absolute;top:660px;font-size:23px;color:white;">
+    <if condition="$page gt 1">
+     <li><a class="btn btn-primary glyphicon glyphicon-chevron-left" href="{:U('manage', array('page'=>$pre))}"></a></li>
+    </if>
+    
+    <for start="1" end="$pages+1">
+      <li><a class="btn btn-primary" style="font-size:16px;" href="{:U('manage', array('page'=>$i))}">{$i}</a></li>
+    </for>
+
+    <if condition="$page lt $pages">
+      <li><a  class="btn btn-primary glyphicon glyphicon-chevron-right" href="{:U('manage', array('page'=>$next))}"></a></li>
+    </if>
+    </ul>
+  </div>
+  </div>
+
+</body>
+<link rel="stylesheet" href="__CSS__/bootstrap.css" type="text/css">
+<script type="text/javascript">
+ function autoSubmit(){
+ var form1=document.getElementById("form1");
+  form1.submit();
+} 
+</script>
+</html>
+

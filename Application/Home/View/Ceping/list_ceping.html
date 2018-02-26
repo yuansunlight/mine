@@ -1,0 +1,117 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head> 
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title></title>
+<style type="text/css">
+  .main{
+    margin:50px 60px;
+  }
+  td{
+    text-align: center;
+    height:30px;
+  }
+  .ull ul{
+    margin:0 auto;
+
+  }
+  .ull ul li{
+    float:left;
+    margin-right:20px; 
+
+  }
+</style>
+<link rel="stylesheet" href="__CSS__/css.css" type="text/css">
+<link rel="stylesheet" href="__CSS__/bootstrap.css" type="text/css">
+</head>
+<body>
+<div class="main">
+<p>已有成绩列表：</p>
+   <form id="form1" name="form1" method="post" action="{:U('list_ceping')}">
+     搜索: 
+    <select name="year" id="year" onChange="autoSubmit();">
+      <option  value="">学年</option>
+      <option  value="2016">2016</option>
+      <option  value="2017">2017</option>
+      <if condition="$year eq 2016">
+          <option value="2016" selected>2016</option>
+      </if>
+      <if condition="$year eq 2017">
+        <option value="2017" selected>2017</option>
+      </if>
+    </select>
+    <select name="classes" id="classes" onChange="autoSubmit();">
+      <option  value="">班级</option>
+      <foreach name="class" item="value">
+      <option value="{$value}">{$value}</option>
+      <if condition="$classes eq $value">
+        <option value="{$value}" selected>{$value}</option>
+      </if>
+      </foreach>
+    </select>
+  姓名:
+  <input name="name" type="text" id="name" value="{$name}" />
+  <input type="submit" name="Submit" value="查找" />
+  </form>
+<br>
+<table width="100%" border="1" align="center" cellpadding="3" cellspacing="1" bordercolor="#6699CC" style="border-collapse:collapse"> 
+  <tr>
+    <td bgcolor='#EBE2FE'>学年</td>
+    <td bgcolor='#EBE2FE'>班级</td>
+    <td bgcolor='#EBE2FE'>姓名</td>
+    <td bgcolor='#EBE2FE'>GPA</td>
+    <td bgcolor='#EBE2FE'>体侧成绩</td>
+    <td bgcolor='#EBE2FE'>公益时长</td>
+    <td bgcolor='#EBE2FE'>竞赛获奖</td>
+    <td bgcolor='#EBE2FE'>旷课</td>
+    <td bgcolor='#EBE2FE'>挂科</td>
+    <td width="70" align="center" bgcolor="#EBE2FE">操作</td>
+  </tr>
+  <foreach name="data" item="value" key="k">
+    <tr>
+      <td>{$value.year}</td>
+      <td>{$value.classes}</td>
+      <td>{$value.name}</td>
+      <td>{$value.gpa}</td>
+      <td>{$value.sports}</td>
+      <td>{$value.practice}</td>
+      <td>{$value.honor}</td>
+      <td>{$value.outtime}</td>
+      <td>{$value.fail}</td>
+      <td>
+          <a href="{:U('Home/Ceping/edit', array('id'=>$value['id']))}" title="编辑">
+            <span class="glyphicon glyphicon-pencil"></span>
+          </a>&nbsp; 
+          <a href="{:U('Home/Ceping/del', array('id'=>$value['id']))}" title="删除">
+            <span class="glyphicon glyphicon-trash"></span>
+          </a>
+      </td>
+    </tr>
+  </foreach> 
+</table>
+<p>&nbsp; </p>
+<div class="ull">
+    <ul style="list-style: none;position:absolute;top:660px;font-size:23px;color:white;">
+      <if condition="$page gt 1">
+       <li><a class="btn btn-primary glyphicon glyphicon-chevron-left" href="{:U('list_ceping', array('page'=>$pre))}"></a></li>
+      </if>
+
+      <for start="1" end="$pages+1">
+        <li><a class="btn btn-primary" style="font-size:16px;" href="{:U('list_ceping', array('page'=>$i))}">{$i}</a></li>
+      </for>
+
+      <if condition="$page lt $pages">
+        <li><a  class="btn btn-primary glyphicon glyphicon-chevron-right" href="{:U('list_ceping', array('page'=>$next))}"></a></li>
+      </if>
+    </ul>
+  </div>
+</div>
+</body>
+<script type="text/javascript">
+ function autoSubmit(){
+ var form1=document.getElementById("form1");
+  form1.submit();
+} 
+</script>
+</html>
+

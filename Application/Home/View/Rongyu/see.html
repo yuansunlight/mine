@@ -1,0 +1,98 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head> 
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>申请书审核</title>
+<link rel="stylesheet" href="__CSS__/css.css" type="text/css">
+<link rel="stylesheet" href="__CSS__/bootstrap.css" type="text/css">
+</head>
+<style type="text/css">
+  td{
+    text-align: center;
+    height:30px;
+  }
+  .main{
+    margin:70px 80px;
+  }
+  .table{
+    margin-top: 20px;
+  }
+  .btn-info{
+    height:25px;
+    font-size:16px;
+    /*line-height:25px;*/
+  }
+</style>
+
+<body>
+  <div class="main">
+<div class="table">
+  <table width="100%" border="1" align="center" cellpadding="3" cellspacing="1" bordercolor="#6699CC" style="border-collapse:collapse">  
+  <tr>
+    <td width="90" bgcolor='#EBE2FE'>学年</td>
+    <td width="90" bgcolor='#EBE2FE'>姓名</td>
+    <td width="90" bgcolor='#EBE2FE'>申请类别</td>
+    <td width="90" bgcolor='#EBE2FE'>申请名称</td>
+    <td width="90" bgcolor='#EBE2FE'>专业奖学金总分</td>
+    <td width="90" bgcolor='#EBE2FE'>专业奖学金排名</td>
+    <td width="90" align="center" bgcolor="#EBE2FE">申请时间</td>
+  </tr>
+</table>
+<br>
+<table width="100%" border="1" align="center" cellpadding="3" cellspacing="1" bordercolor="#6699CC" style="border-collapse:collapse"> 
+<if condition="$count3 gt 0" >
+  <p style="text-align: center;">优秀学生干部</p>
+</if>
+  <foreach name="data3" item="value" key="k">
+    <tr>
+      <td width="90">{$value.year}</td>
+      <td width="90">{$value.name}</td>
+      <td width="90">{$value.leibie}</td>
+      <td width="90">{$value.mingcheng}</td>
+      <td width="90">{$value.together}</td>
+      <td width="90">{$value.rank}</td>
+      <td width="90">{$value.addtime}</td>
+    </tr>
+  </foreach>
+</table>
+<br>
+<table width="100%" border="1" align="center" cellpadding="3" cellspacing="1" bordercolor="#6699CC" style="border-collapse:collapse"> 
+<if condition="$count1 gt 0" >
+  <p style="text-align: center;">优秀学生</p>
+</if>
+  <foreach name="data1" item="value" key="k">
+    <tr>
+      <td width="90">{$value.year}</td>
+      <td width="90">{$value.name}</td>
+      <td width="90">{$value.leibie}</td>
+      <td width="90">{$value.mingcheng}</td>
+      <td width="90">{$value.together}</td>
+      <td width="90">{$value.rank}</td>
+      <td width="90">{$value.addtime}</td>
+    </tr>
+  </foreach>
+</table>
+<br>
+<table width="100%" border="1" align="center" cellpadding="3" cellspacing="1" bordercolor="#6699CC" style="border-collapse:collapse"> 
+  <if condition="$count2 gt 0" >
+ <p style="text-align: center;">先进个人</p>
+</if>
+   <foreach name="data2" item="value" key="k">
+    <tr> 
+      <td width="90">{$value.year}</td>
+      <td width="90">{$value.name}</td>
+      <td width="90">{$value.leibie}</td>
+      <td width="90">{$value.mingcheng}</td>
+      <td width="90">{$value.together}</td>
+      <td width="90">{$value.rank}</td>
+      <td width="90">{$value.addtime}</td>
+    </tr>
+  </foreach>
+</table>
+</div>
+  </div>
+
+
+</body>
+</html>
+

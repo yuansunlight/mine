@@ -1,0 +1,1081 @@
+[ 2017-12-17T14:22:50+08:00 ] ::1 /sss/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+
+[ 2017-12-17T14:23:50+08:00 ] ::1 /sss/index.php/Admin/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+ERR: 模板不存在:./Application/Admin/View/Index/login.html
+
+[ 2017-12-17T14:23:52+08:00 ] ::1 /sss/index.php/Admin/Index/admin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+
+[ 2017-12-17T14:23:52+08:00 ] ::1 /sss/index.php/Admin/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+
+[ 2017-12-17T14:24:01+08:00 ] ::1 /sss/index.php/Admin/Manage/addhonor.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+
+[ 2017-12-17T14:31:53+08:00 ] ::1 /sss/index.php/Admin/Manage/addhonor.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000251s ]
+
+[ 2017-12-17T14:31:56+08:00 ] ::1 /sss/index.php/Admin/Manage/addhonor.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+
+[ 2017-12-17T14:33:16+08:00 ] ::1 /sss/index.php/Admin/Manage/addhonor.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+
+[ 2017-12-17T14:33:20+08:00 ] ::1 /sss/index.php/Admin/Manage/addhonor.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+
+[ 2017-12-17T14:38:13+08:00 ] ::1 /sss/index.php/Admin/Index/admin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+
+[ 2017-12-17T14:38:13+08:00 ] ::1 /sss/index.php/Admin/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+
+[ 2017-12-17T14:48:39+08:00 ] ::1 /sss/index.php/Admin/Manage/addhonor.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+
+[ 2017-12-17T14:52:43+08:00 ] ::1 /sss/index.php/Admin/Index/admin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+
+[ 2017-12-17T14:52:43+08:00 ] ::1 /sss/index.php/Admin/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+
+[ 2017-12-17T16:03:45+08:00 ] ::1 /sss/index.php/Admin/Index/logout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+
+[ 2017-12-17T16:03:46+08:00 ] ::1 /sss/index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+
+[ 2017-12-17T19:26:57+08:00 ] ::1 /sss/index.php/Admin/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002586s ]
+ERR: 模板不存在:./Application/Admin/View/Index/login.html
+
+[ 2017-12-17T19:27:05+08:00 ] ::1 /sss/index.php/Admin/Index/admin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000669s ]
+
+[ 2017-12-17T19:27:06+08:00 ] ::1 /sss/index.php/Admin/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+
+[ 2017-12-17T19:28:53+08:00 ] ::1 /sss/index.php/Admin/Manage/addhonor.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+
+[ 2017-12-17T19:28:54+08:00 ] ::1 /sss/index.php/Admin/Index/Rukou.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+ERR: 非法操作:Rukou.php
+
+[ 2017-12-17T19:28:56+08:00 ] ::1 /sss/index.php/Admin/Manage/addhonor.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000245s ]
+
+[ 2017-12-17T19:29:05+08:00 ] ::1 /sss/index.php/Admin/Index/Rukou.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000250s ]
+ERR: 非法操作:Rukou.php
+
+[ 2017-12-17T19:29:07+08:00 ] ::1 /sss/index.php/Admin/Manage/addhonor.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+
+[ 2017-12-17T19:42:20+08:00 ] ::1 /sss/index.php/Admin/Index/admin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000671s ]
+
+[ 2017-12-17T19:42:20+08:00 ] ::1 /sss/index.php/Admin/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+
+[ 2017-12-17T19:43:23+08:00 ] ::1 /sss/index.php/Admin/Index/admin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+
+[ 2017-12-17T19:43:23+08:00 ] ::1 /sss/index.php/Admin/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+
+[ 2017-12-17T19:43:24+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+
+[ 2017-12-17T19:45:52+08:00 ] ::1 /sss/index.php/Admin/Index/admin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+
+[ 2017-12-17T19:45:52+08:00 ] ::1 /sss/index.php/Admin/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+
+[ 2017-12-17T19:45:53+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+
+[ 2017-12-17T19:46:45+08:00 ] ::1 /sss/index.php/Admin/Index/admin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+
+[ 2017-12-17T19:46:45+08:00 ] ::1 /sss/index.php/Admin/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+
+[ 2017-12-17T19:46:46+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+
+[ 2017-12-17T19:48:38+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+
+[ 2017-12-17T19:48:39+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000265s ]
+
+[ 2017-12-17T19:50:36+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+
+[ 2017-12-17T19:53:01+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+
+[ 2017-12-17T19:53:02+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+
+[ 2017-12-17T19:53:13+08:00 ] ::1 /sss/index.php/Admin/Index/admin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+
+[ 2017-12-17T19:53:13+08:00 ] ::1 /sss/index.php/Admin/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+
+[ 2017-12-17T19:53:14+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+
+[ 2017-12-17T19:54:44+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+
+[ 2017-12-17T19:54:45+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000704s ]
+
+[ 2017-12-17T19:55:06+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000349s ]
+
+[ 2017-12-17T19:55:56+08:00 ] ::1 /sss/index.php/Admin/Index/admin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+
+[ 2017-12-17T19:55:57+08:00 ] ::1 /sss/index.php/Admin/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001151s ]
+
+[ 2017-12-17T19:55:58+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000241s ]
+
+[ 2017-12-17T19:56:19+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000243s ]
+
+[ 2017-12-17T19:58:23+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+
+[ 2017-12-17T19:58:41+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+
+[ 2017-12-17T19:58:59+08:00 ] ::1 /sss/index.php/Admin/Index/admin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000641s ]
+
+[ 2017-12-17T19:58:59+08:00 ] ::1 /sss/index.php/Admin/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+
+[ 2017-12-17T19:59:00+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+
+[ 2017-12-17T19:59:25+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000259s ]
+
+[ 2017-12-17T20:01:46+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000262s ]
+
+[ 2017-12-17T20:02:05+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+
+[ 2017-12-17T20:02:32+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+
+[ 2017-12-17T20:02:34+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000247s ]
+
+[ 2017-12-17T20:02:34+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+
+[ 2017-12-17T20:02:34+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+
+[ 2017-12-17T20:02:34+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000265s ]
+
+[ 2017-12-17T20:02:51+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000243s ]
+
+[ 2017-12-17T20:02:52+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+
+[ 2017-12-17T20:02:52+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+
+[ 2017-12-17T20:02:52+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+
+[ 2017-12-17T20:02:52+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+
+[ 2017-12-17T20:03:08+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000735s ]
+
+[ 2017-12-17T20:03:08+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+
+[ 2017-12-17T20:03:17+08:00 ] ::1 /sss/index.php/Admin/Manage/addhonor.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+
+[ 2017-12-17T20:03:17+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+
+[ 2017-12-17T20:03:17+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000265s ]
+
+[ 2017-12-17T20:03:33+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000617s ]
+
+[ 2017-12-17T20:05:36+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001287s ]
+
+[ 2017-12-17T20:05:50+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+
+[ 2017-12-17T20:06:38+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+
+[ 2017-12-17T20:06:54+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+
+[ 2017-12-17T20:08:31+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+
+[ 2017-12-17T20:09:47+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+
+[ 2017-12-17T20:09:49+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000553s ]
+
+[ 2017-12-17T20:10:34+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+
+[ 2017-12-17T20:10:37+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+
+[ 2017-12-17T20:10:39+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+
+[ 2017-12-17T20:10:41+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+
+[ 2017-12-17T20:13:37+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000274s ]
+
+[ 2017-12-17T20:13:38+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+
+[ 2017-12-17T20:17:01+08:00 ] ::1 /sss/index.php/Admin/Index/admin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+
+[ 2017-12-17T20:17:01+08:00 ] ::1 /sss/index.php/Admin/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000642s ]
+
+[ 2017-12-17T20:17:02+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+
+[ 2017-12-17T20:17:04+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+
+[ 2017-12-17T20:17:04+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000249s ]
+
+[ 2017-12-17T20:17:08+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000246s ]
+
+[ 2017-12-17T20:17:26+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000251s ]
+
+[ 2017-12-17T20:20:21+08:00 ] ::1 /sss/index.php/Admin/Index/admin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+
+[ 2017-12-17T20:20:21+08:00 ] ::1 /sss/index.php/Admin/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+
+[ 2017-12-17T20:20:22+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001072s ]
+
+[ 2017-12-17T20:20:24+08:00 ] ::1 /sss/index.php/Admin/Manage/addhonor.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+
+[ 2017-12-17T20:20:25+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000248s ]
+
+[ 2017-12-17T20:21:31+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+
+[ 2017-12-17T20:21:32+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+
+[ 2017-12-17T20:22:44+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+
+[ 2017-12-17T20:22:44+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+
+[ 2017-12-17T20:23:16+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+
+[ 2017-12-17T20:23:17+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+
+[ 2017-12-17T20:23:45+08:00 ] ::1 /sss/index.php/Admin/Manage/addhonor.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000245s ]
+
+[ 2017-12-17T20:23:45+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+
+[ 2017-12-17T20:23:46+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+
+[ 2017-12-17T20:23:46+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+
+[ 2017-12-17T20:24:06+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+
+[ 2017-12-17T20:24:07+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+
+[ 2017-12-17T20:24:38+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+
+[ 2017-12-17T20:24:39+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000258s ]
+
+[ 2017-12-17T20:24:50+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000246s ]
+
+[ 2017-12-17T20:24:51+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000250s ]
+
+[ 2017-12-17T20:25:02+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000246s ]
+
+[ 2017-12-17T20:25:03+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+
+[ 2017-12-17T20:26:59+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000910s ]
+
+[ 2017-12-17T20:27:00+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+
+[ 2017-12-17T20:27:03+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000245s ]
+
+[ 2017-12-17T20:27:04+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000265s ]
+
+[ 2017-12-17T20:28:03+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000249s ]
+
+[ 2017-12-17T20:30:50+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000252s ]
+
+[ 2017-12-17T20:30:51+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000251s ]
+
+[ 2017-12-17T20:31:06+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+
+[ 2017-12-17T20:31:12+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+
+[ 2017-12-17T20:31:15+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000253s ]
+
+[ 2017-12-17T20:31:15+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000247s ]
+
+[ 2017-12-17T20:31:17+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+
+[ 2017-12-17T20:31:18+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+
+[ 2017-12-17T20:34:36+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+
+[ 2017-12-17T20:34:38+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+
+[ 2017-12-17T20:34:40+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+
+[ 2017-12-17T20:34:42+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+
+[ 2017-12-17T20:34:44+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+
+[ 2017-12-17T20:34:45+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+
+[ 2017-12-17T20:34:45+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+
+[ 2017-12-17T20:34:46+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000246s ]
+
+[ 2017-12-17T20:34:46+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000253s ]
+
+[ 2017-12-17T20:34:47+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+
+[ 2017-12-17T20:34:47+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000244s ]
+
+[ 2017-12-17T20:34:49+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+
+[ 2017-12-17T20:34:49+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+
+[ 2017-12-17T20:34:51+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+
+[ 2017-12-17T20:34:58+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000259s ]
+
+[ 2017-12-17T20:35:01+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000781s ]
+
+[ 2017-12-17T20:35:01+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+
+[ 2017-12-17T20:35:02+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000254s ]
+
+[ 2017-12-17T20:35:27+08:00 ] ::1 /sss/index.php/Admin/Manage/addhonor.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+
+[ 2017-12-17T20:35:27+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+
+[ 2017-12-17T20:35:28+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+
+[ 2017-12-17T20:35:31+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+
+[ 2017-12-17T20:35:32+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000251s ]
+
+[ 2017-12-17T20:35:32+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+
+[ 2017-12-17T20:35:32+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+
+[ 2017-12-17T20:35:33+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000240s ]
+
+[ 2017-12-17T20:35:35+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+
+[ 2017-12-17T20:35:45+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000245s ]
+
+[ 2017-12-17T20:35:46+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+
+[ 2017-12-17T20:35:48+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000248s ]
+
+[ 2017-12-17T20:35:48+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+
+[ 2017-12-17T20:35:50+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+
+[ 2017-12-17T20:35:50+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+
+[ 2017-12-17T20:35:51+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000244s ]
+
+[ 2017-12-17T20:35:52+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+
+[ 2017-12-17T20:38:17+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+
+[ 2017-12-17T20:38:20+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+
+[ 2017-12-17T20:38:23+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000250s ]
+
+[ 2017-12-17T20:38:32+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+
+[ 2017-12-17T20:39:28+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000245s ]
+
+[ 2017-12-17T20:39:31+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+
+[ 2017-12-17T20:39:34+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000248s ]
+
+[ 2017-12-17T20:40:58+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+
+[ 2017-12-17T20:41:00+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+
+[ 2017-12-17T20:41:03+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+
+[ 2017-12-17T20:42:11+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000559s ]
+
+[ 2017-12-17T20:42:13+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+
+[ 2017-12-17T20:42:16+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000260s ]
+
+[ 2017-12-17T20:42:39+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+
+[ 2017-12-17T20:42:41+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+
+[ 2017-12-17T20:42:44+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+
+[ 2017-12-17T20:42:50+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+
+[ 2017-12-17T20:42:53+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+
+[ 2017-12-17T20:43:13+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000258s ]
+
+[ 2017-12-17T20:43:14+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000250s ]
+
+[ 2017-12-17T20:43:17+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000247s ]
+
+[ 2017-12-17T20:43:29+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+
+[ 2017-12-17T20:43:31+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000248s ]
+
+[ 2017-12-17T20:43:39+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+
+[ 2017-12-17T20:43:41+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+
+[ 2017-12-17T20:43:44+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+
+[ 2017-12-17T20:46:39+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+
+[ 2017-12-17T20:46:41+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+
+[ 2017-12-17T20:46:43+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001892s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `id` = 1' at line 1
+ [ SQL语句 ] : UPDATE `rukou` SET  WHERE `id` = 1
+
+[ 2017-12-17T20:47:25+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+
+[ 2017-12-17T20:47:27+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+
+[ 2017-12-17T20:47:40+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+
+[ 2017-12-17T20:47:47+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+
+[ 2017-12-17T20:48:26+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000250s ]
+
+[ 2017-12-17T20:48:29+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000253s ]
+
+[ 2017-12-17T20:49:59+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000243s ]
+
+[ 2017-12-17T20:50:12+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000388s ]
+
+[ 2017-12-17T20:52:46+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000249s ]
+
+[ 2017-12-17T20:52:53+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+
+[ 2017-12-17T20:53:02+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+
+[ 2017-12-17T20:53:23+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+
+[ 2017-12-17T20:53:28+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+
+[ 2017-12-17T20:55:49+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+
+[ 2017-12-17T20:55:51+08:00 ] ::1 /sss/index.php/Admin/Manage/addhonor.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000252s ]
+
+[ 2017-12-17T20:55:52+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000245s ]
+
+[ 2017-12-17T20:55:55+08:00 ] ::1 /sss/index.php/Admin/Manage/addhonor.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000243s ]
+
+[ 2017-12-17T20:55:57+08:00 ] ::1 /sss/index.php/Admin/Rukou/rukou.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002671s ]
+
+[ 2017-12-17T20:56:00+08:00 ] ::1 /sss/index.php/Admin/Manage/addhonor.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+
+[ 2017-12-17T20:56:03+08:00 ] ::1 /sss/index.php/Admin/Index/logout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000241s ]
+
+[ 2017-12-17T20:56:04+08:00 ] ::1 /sss/index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+
